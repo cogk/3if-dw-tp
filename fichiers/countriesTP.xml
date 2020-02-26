@@ -1,5 +1,6 @@
 <?xml-stylesheet type="text/xsl" href="TPSol.xsl"?>
 <?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE countries SYSTEM "countries.dtd">
 <countries>
    <metadonnees>
       <description>Fichier xml contenant des informations sur les pays du monde.
