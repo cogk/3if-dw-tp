@@ -1,5 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="TPSol.xsl"?>
 <?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="pays_du_monde_tableau_3IF.xsl"?>
 <!DOCTYPE countries SYSTEM "countries.dtd">
 <countries>
    <metadonnees>
