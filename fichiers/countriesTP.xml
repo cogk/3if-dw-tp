@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<?xml-stylesheet type="text/xsl" href="pays_du_monde_tableau_3IF.xsl"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE countries SYSTEM "countries.dtd">
+<?xml-stylesheet type="text/xsl" href="pays_du_monde_tableau_3IF.xsl"?> 
+
 <countries>
    <metadonnees>
-      <description>Fichier xml contenant des informations sur les pays du monde.
-		Adapté depuis les données se trouvant sur https://github.com/mledoze/countries
+      <description>Fichier xml contenant des informations sur les pays du monde. 
+		Adapté depuis les données se trouvant sur https://github.com/mledoze/countries 
 		</description>
       <cree_le>2019/03/11</cree_le>
       <objectif>Données pour illuster le TP du module  Données du Web, 3IF, Département Informatique INSA de Lyon</objectif>
@@ -34,17 +35,17 @@
       <capital>Oranjestad</capital>
       <altSpellings>AW</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <nld>Dutch</nld>
          <pap>Papiamento</pap>
       </languages>
-      <coordinates lat="12.5" long="-69.96666666" />
+      <coordinates lat="12.5" long="-69.96666666"/>
       <demonym>Aruban</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -78,18 +79,18 @@
       <altSpellings>AF</altSpellings>
       <altSpellings>Afġānistān</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Southern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <prs>Dari</prs>
          <pus>Pashto</pus>
          <tuk>Turkmen</tuk>
       </languages>
-      <coordinates lat="33" long="65" />
+      <coordinates lat="33" long="65"/>
       <demonym>Afghan</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -124,16 +125,16 @@
       <altSpellings>República de Angola</altSpellings>
       <altSpellings>ʁɛpublika de an'ɡɔla</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Middle Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <por>Portuguese</por>
       </languages>
-      <coordinates lat="-12.5" long="18.5" />
+      <coordinates lat="-12.5" long="18.5"/>
       <demonym>Angolan</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -157,23 +158,23 @@
          <cca2>AI</cca2>
          <ccn3>660</ccn3>
          <cca3>AIA</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>XCD</currency>
       <callingCode>1264</callingCode>
       <capital>The Valley</capital>
       <altSpellings>AI</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="18.25" long="-63.16666666" />
+      <coordinates lat="18.25" long="-63.16666666"/>
       <demonym>Anguillian</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -191,7 +192,7 @@
          <cca2>AX</cca2>
          <ccn3>248</ccn3>
          <cca3>ALA</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>EUR</currency>
       <callingCode>358</callingCode>
@@ -201,16 +202,16 @@
       <altSpellings>Aland</altSpellings>
       <altSpellings>Ahvenanmaa</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Northern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <swe>Swedish</swe>
       </languages>
-      <coordinates lat="60.116667" long="19.9" />
+      <coordinates lat="60.116667" long="19.9"/>
       <demonym>Ålandish</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -238,16 +239,16 @@
       <altSpellings>Shqipëria</altSpellings>
       <altSpellings>Shqipnia</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Southern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <sqi>Albanian</sqi>
       </languages>
-      <coordinates lat="41" long="20" />
+      <coordinates lat="41" long="20"/>
       <demonym>Albanian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -280,16 +281,16 @@
       <altSpellings>Principality of Andorra</altSpellings>
       <altSpellings>Principat d'Andorra</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Southern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <cat>Catalan</cat>
       </languages>
-      <coordinates lat="42.5" long="1.5" />
+      <coordinates lat="42.5" long="1.5"/>
       <demonym>Andorran</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -321,16 +322,16 @@
       <altSpellings>UAE</altSpellings>
       <altSpellings>Emirates</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Western Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <ara>Arabic</ara>
       </languages>
-      <coordinates lat="24" long="54" />
+      <coordinates lat="24" long="54"/>
       <demonym>Emirati</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -365,17 +366,17 @@
       <altSpellings>Argentine Republic</altSpellings>
       <altSpellings>República Argentina</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>South America</subregion>
-
+		
       </infosContinent>
       <languages>
          <grn>Guaraní</grn>
          <spa>Spanish</spa>
       </languages>
-      <coordinates lat="-34" long="-64" />
+      <coordinates lat="-34" long="-64"/>
       <demonym>Argentine</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -414,17 +415,17 @@
       <altSpellings>Republic of Armenia</altSpellings>
       <altSpellings>Հայաստանի Հանրապետություն</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Western Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <hye>Armenian</hye>
          <rus>Russian</rus>
       </languages>
-      <coordinates lat="40" long="45" />
+      <coordinates lat="40" long="45"/>
       <demonym>Armenian</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -462,17 +463,17 @@
       <altSpellings>Amelika Sāmoa</altSpellings>
       <altSpellings>Sāmoa Amelika</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Polynesia</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <smo>Samoan</smo>
       </languages>
-      <coordinates lat="-14.33333333" long="-170" />
+      <coordinates lat="-14.33333333" long="-170"/>
       <demonym>American Samoan</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -486,17 +487,17 @@
          <cca2>AQ</cca2>
          <ccn3>010</ccn3>
          <cca3>ATA</cca3>
-         <cioc />
+         <cioc/>
       </codes>
-      <capital />
+      <capital/>
       <altSpellings>AQ</altSpellings>
       <infosContinent>
-
-         <continent />
-
+			
+         <continent/>
+		
       </infosContinent>
-      <languages />
-      <coordinates lat="-90" long="0" />
+      <languages/>
+      <coordinates lat="-90" long="0"/>
       <demonym>Antarctican</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -514,21 +515,21 @@
          <cca2>TF</cca2>
          <ccn3>260</ccn3>
          <cca3>ATF</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>EUR</currency>
       <capital>Port-aux-Français</capital>
       <altSpellings>TF</altSpellings>
       <altSpellings>French Southern Territories</altSpellings>
       <infosContinent>
-
-         <continent />
-
+			
+         <continent/>
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
       </languages>
-      <coordinates lat="-49.25" long="69.167" />
+      <coordinates lat="-49.25" long="69.167"/>
       <demonym>French</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -553,16 +554,16 @@
       <capital>Saint John's</capital>
       <altSpellings>AG</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="17.05" long="-61.8" />
+      <coordinates lat="17.05" long="-61.8"/>
       <demonym>Antiguan, Barbudan</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -587,16 +588,16 @@
       <capital>Canberra</capital>
       <altSpellings>AU</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Australia and New Zealand</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="-27" long="133" />
+      <coordinates lat="-27" long="133"/>
       <demonym>Australian</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -623,16 +624,16 @@
       <altSpellings>Osterreich</altSpellings>
       <altSpellings>Oesterreich</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Central Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <bar>Austro-Bavarian German</bar>
       </languages>
-      <coordinates lat="47.33333333" long="13.33333333" />
+      <coordinates lat="47.33333333" long="13.33333333"/>
       <demonym>Austrian</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -673,17 +674,17 @@
       <altSpellings>Republic of Azerbaijan</altSpellings>
       <altSpellings>Azərbaycan Respublikası</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Western Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <aze>Azerbaijani</aze>
          <rus>Russian</rus>
       </languages>
-      <coordinates lat="40.5" long="47.5" />
+      <coordinates lat="40.5" long="47.5"/>
       <demonym>Azerbaijani</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -722,17 +723,17 @@
       <altSpellings>Republika y'Uburundi</altSpellings>
       <altSpellings>République du Burundi</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Eastern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
          <run>Kirundi</run>
       </languages>
-      <coordinates lat="-3.5" long="30" />
+      <coordinates lat="-3.5" long="30"/>
       <demonym>Burundian</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -778,18 +779,18 @@
       <altSpellings>Royaume de Belgique</altSpellings>
       <altSpellings>Königreich Belgien</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Western Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <deu>German</deu>
          <fra>French</fra>
          <nld>Dutch</nld>
       </languages>
-      <coordinates lat="50.83333333" long="4" />
+      <coordinates lat="50.83333333" long="4"/>
       <demonym>Belgian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -822,16 +823,16 @@
       <altSpellings>Republic of Benin</altSpellings>
       <altSpellings>République du Bénin</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Western Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
       </languages>
-      <coordinates lat="9.5" long="2.25" />
+      <coordinates lat="9.5" long="2.25"/>
       <demonym>Beninese</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -862,16 +863,16 @@
       <capital>Ouagadougou</capital>
       <altSpellings>BF</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Western Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
       </languages>
-      <coordinates lat="13" long="-2" />
+      <coordinates lat="13" long="-2"/>
       <demonym>Burkinabe</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -906,16 +907,16 @@
       <altSpellings>People's Republic of Bangladesh</altSpellings>
       <altSpellings>Gônôprôjatôntri Bangladesh</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Southern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <ben>Bengali</ben>
       </languages>
-      <coordinates lat="24" long="90" />
+      <coordinates lat="24" long="90"/>
       <demonym>Bangladeshi</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -946,16 +947,16 @@
       <altSpellings>Republic of Bulgaria</altSpellings>
       <altSpellings>Република България</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Eastern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <bul>Bulgarian</bul>
       </languages>
-      <coordinates lat="43" long="25" />
+      <coordinates lat="43" long="25"/>
       <demonym>Bulgarian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -989,16 +990,16 @@
       <altSpellings>Kingdom of Bahrain</altSpellings>
       <altSpellings>Mamlakat al-Baḥrayn</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Western Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <ara>Arabic</ara>
       </languages>
-      <coordinates lat="26" long="50.55" />
+      <coordinates lat="26" long="50.55"/>
       <demonym>Bahraini</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -1024,16 +1025,16 @@
       <altSpellings>BS</altSpellings>
       <altSpellings>Commonwealth of the Bahamas</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="24.25" long="-76" />
+      <coordinates lat="24.25" long="-76"/>
       <demonym>Bahamian</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -1068,18 +1069,18 @@
       <altSpellings>Bosnia-Herzegovina</altSpellings>
       <altSpellings>Босна и Херцеговина</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Southern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <bos>Bosnian</bos>
          <hrv>Croatian</hrv>
          <srp>Serbian</srp>
       </languages>
-      <coordinates lat="44" long="18" />
+      <coordinates lat="44" long="18"/>
       <demonym>Bosnian, Herzegovinian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -1102,7 +1103,7 @@
          <cca2>BL</cca2>
          <ccn3>652</ccn3>
          <cca3>BLM</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>EUR</currency>
       <callingCode>590</callingCode>
@@ -1112,16 +1113,16 @@
       <altSpellings>Collectivity of Saint Barthélemy</altSpellings>
       <altSpellings>Collectivité de Saint-Barthélemy</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
       </languages>
-      <coordinates lat="18.5" long="-63.41666666" />
+      <coordinates lat="18.5" long="-63.41666666"/>
       <demonym>Saint Barthélemy Islander</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -1154,17 +1155,17 @@
       <altSpellings>Белоруссия</altSpellings>
       <altSpellings>Республика Белоруссия</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Eastern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <bel>Belarusian</bel>
          <rus>Russian</rus>
       </languages>
-      <coordinates lat="53" long="28" />
+      <coordinates lat="53" long="28"/>
       <demonym>Belarusian</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -1204,18 +1205,18 @@
       <capital>Belmopan</capital>
       <altSpellings>BZ</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Central America</subregion>
-
+		
       </infosContinent>
       <languages>
          <bjz>Belizean Creole</bjz>
          <eng>English</eng>
          <spa>Spanish</spa>
       </languages>
-      <coordinates lat="17.25" long="-88.75" />
+      <coordinates lat="17.25" long="-88.75"/>
       <demonym>Belizean</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -1247,16 +1248,16 @@
       <altSpellings>The Bermudas</altSpellings>
       <altSpellings>Somers Isles</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Northern America</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="32.33333333" long="-64.75" />
+      <coordinates lat="32.33333333" long="-64.75"/>
       <demonym>Bermudian</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -1302,11 +1303,11 @@
       <altSpellings>Wuliwya Suyu</altSpellings>
       <altSpellings>Tetã Volívia</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>South America</subregion>
-
+		
       </infosContinent>
       <languages>
          <aym>Aymara</aym>
@@ -1314,7 +1315,7 @@
          <que>Quechua</que>
          <spa>Spanish</spa>
       </languages>
-      <coordinates lat="-17" long="-65" />
+      <coordinates lat="-17" long="-65"/>
       <demonym>Bolivian</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -1349,16 +1350,16 @@
       <altSpellings>Federative Republic of Brazil</altSpellings>
       <altSpellings>República Federativa do Brasil</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>South America</subregion>
-
+		
       </infosContinent>
       <languages>
          <por>Portuguese</por>
       </languages>
-      <coordinates lat="-10" long="-55" />
+      <coordinates lat="-10" long="-55"/>
       <demonym>Brazilian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -1395,16 +1396,16 @@
       <capital>Bridgetown</capital>
       <altSpellings>BB</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="13.16666666" long="-59.53333333" />
+      <coordinates lat="13.16666666" long="-59.53333333"/>
       <demonym>Barbadian</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -1432,16 +1433,16 @@
       <altSpellings>Nation of Brunei</altSpellings>
       <altSpellings>the Abode of Peace</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>South-Eastern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <msa>Malay</msa>
       </languages>
-      <coordinates lat="4.5" long="114.66666666" />
+      <coordinates lat="4.5" long="114.66666666"/>
       <demonym>Bruneian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -1471,16 +1472,16 @@
       <altSpellings>BT</altSpellings>
       <altSpellings>Kingdom of Bhutan</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Southern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <dzo>Dzongkha</dzo>
       </languages>
-      <coordinates lat="27.5" long="90.5" />
+      <coordinates lat="27.5" long="90.5"/>
       <demonym>Bhutanese</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -1502,23 +1503,23 @@
          <cca2>BV</cca2>
          <ccn3>074</ccn3>
          <cca3>BVT</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>NOK</currency>
-      <capital />
+      <capital/>
       <altSpellings>BV</altSpellings>
       <altSpellings>Bouvetøya</altSpellings>
       <altSpellings>Bouvet-øya</altSpellings>
       <infosContinent>
-
-         <continent />
-
+			
+         <continent/>
+		
       </infosContinent>
       <languages>
          <nor>Norwegian</nor>
       </languages>
-      <coordinates lat="-54.43333333" long="3.4" />
-      <demonym />
+      <coordinates lat="-54.43333333" long="3.4"/>
+      <demonym/>
       <landlocked>false</landlocked>
    </country>
    <country area="582000">
@@ -1548,17 +1549,17 @@
       <altSpellings>Republic of Botswana</altSpellings>
       <altSpellings>Lefatshe la Botswana</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Southern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <tsn>Tswana</tsn>
       </languages>
-      <coordinates lat="-22" long="24" />
+      <coordinates lat="-22" long="24"/>
       <demonym>Motswana</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -1595,17 +1596,17 @@
       <altSpellings>Central African Republic</altSpellings>
       <altSpellings>République centrafricaine</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Middle Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
          <sag>Sango</sag>
       </languages>
-      <coordinates lat="7" long="21" />
+      <coordinates lat="7" long="21"/>
       <demonym>Central African</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -1642,17 +1643,17 @@
       <capital>Ottawa</capital>
       <altSpellings>CA</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Northern America</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <fra>French</fra>
       </languages>
-      <coordinates lat="60" long="-95" />
+      <coordinates lat="60" long="-95"/>
       <demonym>Canadian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -1673,7 +1674,7 @@
          <cca2>CC</cca2>
          <ccn3>166</ccn3>
          <cca3>CCK</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>AUD</currency>
       <callingCode>61</callingCode>
@@ -1682,16 +1683,16 @@
       <altSpellings>Territory of the Cocos (Keeling) Islands</altSpellings>
       <altSpellings>Keeling Islands</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Australia and New Zealand</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="-12.5" long="96.83333333" />
+      <coordinates lat="-12.5" long="96.83333333"/>
       <demonym>Cocos Islander</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -1735,11 +1736,11 @@
       <altSpellings>Svizzera</altSpellings>
       <altSpellings>Svizra</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Western Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
@@ -1747,7 +1748,7 @@
          <ita>Italian</ita>
          <roh>Romansh</roh>
       </languages>
-      <coordinates lat="47" long="8" />
+      <coordinates lat="47" long="8"/>
       <demonym>Swiss</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -1782,16 +1783,16 @@
       <altSpellings>Republic of Chile</altSpellings>
       <altSpellings>República de Chile</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>South America</subregion>
-
+		
       </infosContinent>
       <languages>
          <spa>Spanish</spa>
       </languages>
-      <coordinates lat="-30" long="-71" />
+      <coordinates lat="-30" long="-71"/>
       <demonym>Chilean</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -1831,16 +1832,16 @@
       <altSpellings>中华人民共和国</altSpellings>
       <altSpellings>Zhōnghuá Rénmín Gònghéguó</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Eastern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <zho>Chinese</zho>
       </languages>
-      <coordinates lat="35" long="105" />
+      <coordinates lat="35" long="105"/>
       <demonym>Chinese</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -1886,16 +1887,16 @@
       <altSpellings>Republic of Côte d'Ivoire</altSpellings>
       <altSpellings>République de Côte d'Ivoire</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Western Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
       </languages>
-      <coordinates lat="8" long="-5" />
+      <coordinates lat="8" long="-5"/>
       <demonym>Ivorian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -1933,17 +1934,17 @@
       <altSpellings>Republic of Cameroon</altSpellings>
       <altSpellings>République du Cameroun</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Middle Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <fra>French</fra>
       </languages>
-      <coordinates lat="6" long="12" />
+      <coordinates lat="6" long="12"/>
       <demonym>Cameroonian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -1996,11 +1997,11 @@
       <altSpellings>Congo, the Democratic Republic of the</altSpellings>
       <altSpellings>DRC</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Middle Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
@@ -2009,7 +2010,7 @@
          <lua>Tshiluba</lua>
          <swa>Swahili</swa>
       </languages>
-      <coordinates lat="0" long="25" />
+      <coordinates lat="0" long="25"/>
       <demonym>Congolese</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -2055,18 +2056,18 @@
       <altSpellings>Congo</altSpellings>
       <altSpellings>Congo-Brazzaville</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Middle Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
          <kon>Kikongo</kon>
          <lin>Lingala</lin>
       </languages>
-      <coordinates lat="-1" long="15" />
+      <coordinates lat="-1" long="15"/>
       <demonym>Congolese</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -2103,17 +2104,17 @@
       <altSpellings>CK</altSpellings>
       <altSpellings>Kūki 'Āirani</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Polynesia</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <rar>Cook Islands Māori</rar>
       </languages>
-      <coordinates lat="-21.23333333" long="-159.76666666" />
+      <coordinates lat="-21.23333333" long="-159.76666666"/>
       <demonym>Cook Islander</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -2140,16 +2141,16 @@
       <altSpellings>Republic of Colombia</altSpellings>
       <altSpellings>República de Colombia</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>South America</subregion>
-
+		
       </infosContinent>
       <languages>
          <spa>Spanish</spa>
       </languages>
-      <coordinates lat="4" long="-72" />
+      <coordinates lat="4" long="-72"/>
       <demonym>Colombian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -2193,18 +2194,18 @@
       <altSpellings>Udzima wa Komori</altSpellings>
       <altSpellings>al-Ittiḥād al-Qumurī</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Eastern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <ara>Arabic</ara>
          <fra>French</fra>
          <zdj>Comorian</zdj>
       </languages>
-      <coordinates lat="-12.16666666" long="44.25" />
+      <coordinates lat="-12.16666666" long="44.25"/>
       <demonym>Comoran</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -2231,16 +2232,16 @@
       <altSpellings>Republic of Cabo Verde</altSpellings>
       <altSpellings>República de Cabo Verde</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Western Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <por>Portuguese</por>
       </languages>
-      <coordinates lat="16" long="-24" />
+      <coordinates lat="16" long="-24"/>
       <demonym>Cape Verdian</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -2267,16 +2268,16 @@
       <altSpellings>Republic of Costa Rica</altSpellings>
       <altSpellings>República de Costa Rica</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Central America</subregion>
-
+		
       </infosContinent>
       <languages>
          <spa>Spanish</spa>
       </languages>
-      <coordinates lat="10" long="-84" />
+      <coordinates lat="10" long="-84"/>
       <demonym>Costa Rican</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -2308,16 +2309,16 @@
       <altSpellings>Republic of Cuba</altSpellings>
       <altSpellings>República de Cuba</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <spa>Spanish</spa>
       </languages>
-      <coordinates lat="21.5" long="-80" />
+      <coordinates lat="21.5" long="-80"/>
       <demonym>Cuban</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -2343,7 +2344,7 @@
          <cca2>CW</cca2>
          <ccn3>531</ccn3>
          <cca3>CUW</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>ANG</currency>
       <callingCode>5999</callingCode>
@@ -2355,18 +2356,18 @@
       <altSpellings>Land Curaçao</altSpellings>
       <altSpellings>Pais Kòrsou</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <nld>Dutch</nld>
          <pap>Papiamento</pap>
       </languages>
-      <coordinates lat="12.116667" long="-68.933333" />
+      <coordinates lat="12.116667" long="-68.933333"/>
       <demonym>Dutch</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -2384,7 +2385,7 @@
          <cca2>CX</cca2>
          <ccn3>162</ccn3>
          <cca3>CXR</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>AUD</currency>
       <callingCode>61</callingCode>
@@ -2392,16 +2393,16 @@
       <altSpellings>CX</altSpellings>
       <altSpellings>Territory of Christmas Island</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Australia and New Zealand</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="-10.5" long="105.66666666" />
+      <coordinates lat="-10.5" long="105.66666666"/>
       <demonym>Christmas Islander</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -2426,16 +2427,16 @@
       <capital>George Town</capital>
       <altSpellings>KY</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="19.5" long="-80.5" />
+      <coordinates lat="19.5" long="-80.5"/>
       <demonym>Caymanian</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -2469,17 +2470,17 @@
       <altSpellings>Κυπριακή Δημοκρατία</altSpellings>
       <altSpellings>Kıbrıs Cumhuriyeti</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Eastern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <ell>Greek</ell>
          <tur>Turkish</tur>
       </languages>
-      <coordinates lat="35" long="33" />
+      <coordinates lat="35" long="33"/>
       <demonym>Cypriot</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -2513,17 +2514,17 @@
       <altSpellings>Česká republika</altSpellings>
       <altSpellings>Česko</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Central Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <ces>Czech</ces>
          <slk>Slovak</slk>
       </languages>
-      <coordinates lat="49.75" long="15.5" />
+      <coordinates lat="49.75" long="15.5"/>
       <demonym>Czech</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -2556,16 +2557,16 @@
       <altSpellings>Federal Republic of Germany</altSpellings>
       <altSpellings>Bundesrepublik Deutschland</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Western Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <deu>German</deu>
       </languages>
-      <coordinates lat="51" long="9" />
+      <coordinates lat="51" long="9"/>
       <demonym>German</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -2611,17 +2612,17 @@
       <altSpellings>Gabuutih Ummuuno</altSpellings>
       <altSpellings>Jamhuuriyadda Jabuuti</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Eastern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <ara>Arabic</ara>
          <fra>French</fra>
       </languages>
-      <coordinates lat="11.5" long="43" />
+      <coordinates lat="11.5" long="43"/>
       <demonym>Djibouti</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -2654,16 +2655,16 @@
       <altSpellings>Wai‘tu kubuli</altSpellings>
       <altSpellings>Commonwealth of Dominica</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="15.41666666" long="-61.33333333" />
+      <coordinates lat="15.41666666" long="-61.33333333"/>
       <demonym>Dominican</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -2691,16 +2692,16 @@
       <altSpellings>Kingdom of Denmark</altSpellings>
       <altSpellings>Kongeriget Danmark</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Northern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <dan>Danish</dan>
       </languages>
-      <coordinates lat="56" long="10" />
+      <coordinates lat="56" long="10"/>
       <demonym>Danish</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -2730,16 +2731,16 @@
       <capital>Santo Domingo</capital>
       <altSpellings>DO</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <spa>Spanish</spa>
       </languages>
-      <coordinates lat="19" long="-70.66666666" />
+      <coordinates lat="19" long="-70.66666666"/>
       <demonym>Dominican</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -2770,16 +2771,16 @@
       <altSpellings>Dzayer</altSpellings>
       <altSpellings>Algérie</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Northern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <ara>Arabic</ara>
       </languages>
-      <coordinates lat="28" long="3" />
+      <coordinates lat="28" long="3"/>
       <demonym>Algerian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -2815,16 +2816,16 @@
       <altSpellings>Republic of Ecuador</altSpellings>
       <altSpellings>República del Ecuador</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>South America</subregion>
-
+		
       </infosContinent>
       <languages>
          <spa>Spanish</spa>
       </languages>
-      <coordinates lat="-2" long="-77.5" />
+      <coordinates lat="-2" long="-77.5"/>
       <demonym>Ecuadorean</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -2855,16 +2856,16 @@
       <altSpellings>EG</altSpellings>
       <altSpellings>Arab Republic of Egypt</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Northern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <ara>Arabic</ara>
       </languages>
-      <coordinates lat="27" long="30" />
+      <coordinates lat="27" long="30"/>
       <demonym>Egyptian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -2907,18 +2908,18 @@
       <altSpellings>ʾErtrā</altSpellings>
       <altSpellings>Iritriyā</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Eastern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <ara>Arabic</ara>
          <eng>English</eng>
          <tir>Tigrinya</tir>
       </languages>
-      <coordinates lat="15" long="39" />
+      <coordinates lat="15" long="39"/>
       <demonym>Eritrean</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -2949,7 +2950,7 @@
          <cca2>EH</cca2>
          <ccn3>732</ccn3>
          <cca3>ESH</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>MAD</currency>
       <currency>DZD</currency>
@@ -2959,18 +2960,18 @@
       <altSpellings>EH</altSpellings>
       <altSpellings>Taneẓroft Tutrimt</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Northern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <ber>Berber</ber>
          <mey>Hassaniya</mey>
          <spa>Spanish</spa>
       </languages>
-      <coordinates lat="24.5" long="-13" />
+      <coordinates lat="24.5" long="-13"/>
       <demonym>Sahrawi</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -2993,7 +2994,7 @@
          </native_name>
          <native_name lang="glg">
             <official>Reino de España</official>
-            <common />
+            <common/>
          </native_name>
          <native_name lang="oci">
             <official>Reialme d'Espanha</official>
@@ -3018,11 +3019,11 @@
       <altSpellings>Kingdom of Spain</altSpellings>
       <altSpellings>Reino de España</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Southern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <cat>Catalan</cat>
@@ -3031,7 +3032,7 @@
          <oci>Occitan</oci>
          <spa>Spanish</spa>
       </languages>
-      <coordinates lat="40" long="-4" />
+      <coordinates lat="40" long="-4"/>
       <demonym>Spanish</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -3066,16 +3067,16 @@
       <altSpellings>Republic of Estonia</altSpellings>
       <altSpellings>Eesti Vabariik</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Northern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <est>Estonian</est>
       </languages>
-      <coordinates lat="59" long="26" />
+      <coordinates lat="59" long="26"/>
       <demonym>Estonian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -3107,16 +3108,16 @@
       <altSpellings>Federal Democratic Republic of Ethiopia</altSpellings>
       <altSpellings>የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Eastern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <amh>Amharic</amh>
       </languages>
-      <coordinates lat="8" long="38" />
+      <coordinates lat="8" long="38"/>
       <demonym>Ethiopian</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -3157,17 +3158,17 @@
       <altSpellings>Suomen tasavalta</altSpellings>
       <altSpellings>Republiken Finland</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Northern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <fin>Finnish</fin>
          <swe>Swedish</swe>
       </languages>
-      <coordinates lat="64" long="26" />
+      <coordinates lat="64" long="26"/>
       <demonym>Finnish</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -3209,18 +3210,18 @@
       <altSpellings>Matanitu ko Viti</altSpellings>
       <altSpellings>Fijī Gaṇarājya</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Melanesia</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <fij>Fijian</fij>
          <hif>Fiji Hindi</hif>
       </languages>
-      <coordinates lat="-18" long="175" />
+      <coordinates lat="-18" long="175"/>
       <demonym>Fijian</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -3238,7 +3239,7 @@
          <cca2>FK</cca2>
          <ccn3>238</ccn3>
          <cca3>FLK</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>FKP</currency>
       <callingCode>500</callingCode>
@@ -3247,16 +3248,16 @@
       <altSpellings>Islas Malvinas</altSpellings>
       <altSpellings>Falkland Islands (Malvinas)</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>South America</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="-51.75" long="-59" />
+      <coordinates lat="-51.75" long="-59"/>
       <demonym>Falkland Islander</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -3283,16 +3284,16 @@
       <altSpellings>French Republic</altSpellings>
       <altSpellings>République française</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Western Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
       </languages>
-      <coordinates lat="46" long="2" />
+      <coordinates lat="46" long="2"/>
       <demonym>French</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -3324,7 +3325,7 @@
          <cca2>FO</cca2>
          <ccn3>234</ccn3>
          <cca3>FRO</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>DKK</currency>
       <callingCode>298</callingCode>
@@ -3333,17 +3334,17 @@
       <altSpellings>Føroyar</altSpellings>
       <altSpellings>Færøerne</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Northern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <dan>Danish</dan>
          <fao>Faroese</fao>
       </languages>
-      <coordinates lat="62" long="-7" />
+      <coordinates lat="62" long="-7"/>
       <demonym>Faroese</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -3370,16 +3371,16 @@
       <altSpellings>Federated States of Micronesia</altSpellings>
       <altSpellings>Micronesia, Federated States of</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Micronesia</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="6.91666666" long="158.25" />
+      <coordinates lat="6.91666666" long="158.25"/>
       <demonym>Micronesian</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -3406,16 +3407,16 @@
       <altSpellings>Gabonese Republic</altSpellings>
       <altSpellings>République Gabonaise</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Middle Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
       </languages>
-      <coordinates lat="-1" long="11.75" />
+      <coordinates lat="-1" long="11.75"/>
       <demonym>Gabonese</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -3447,16 +3448,16 @@
       <altSpellings>UK</altSpellings>
       <altSpellings>Great Britain</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Northern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="54" long="-2" />
+      <coordinates lat="54" long="-2"/>
       <demonym>British</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -3485,16 +3486,16 @@
       <altSpellings>GE</altSpellings>
       <altSpellings>Sakartvelo</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Western Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <kat>Georgian</kat>
       </languages>
-      <coordinates lat="42" long="43.5" />
+      <coordinates lat="42" long="43.5"/>
       <demonym>Georgian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -3526,7 +3527,7 @@
          <cca2>GG</cca2>
          <ccn3>831</ccn3>
          <cca3>GGY</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>GBP</currency>
       <callingCode>44</callingCode>
@@ -3535,18 +3536,18 @@
       <altSpellings>Bailiwick of Guernsey</altSpellings>
       <altSpellings>Bailliage de Guernesey</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Northern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <fra>French</fra>
          <nfr>Guernésiais</nfr>
       </languages>
-      <coordinates lat="49.46666666" long="-2.58333333" />
+      <coordinates lat="49.46666666" long="-2.58333333"/>
       <demonym>Channel Islander</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -3571,16 +3572,16 @@
       <capital>Accra</capital>
       <altSpellings>GH</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Western Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="8" long="-2" />
+      <coordinates lat="8" long="-2"/>
       <demonym>Ghanaian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -3603,23 +3604,23 @@
          <cca2>GI</cca2>
          <ccn3>292</ccn3>
          <cca3>GIB</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>GIP</currency>
       <callingCode>350</callingCode>
       <capital>Gibraltar</capital>
       <altSpellings>GI</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Southern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="36.13333333" long="-5.35" />
+      <coordinates lat="36.13333333" long="-5.35"/>
       <demonym>Gibraltar</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -3649,16 +3650,16 @@
       <altSpellings>Republic of Guinea</altSpellings>
       <altSpellings>République de Guinée</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Western Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
       </languages>
-      <coordinates lat="11" long="-10" />
+      <coordinates lat="11" long="-10"/>
       <demonym>Guinean</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -3684,7 +3685,7 @@
          <cca2>GP</cca2>
          <ccn3>312</ccn3>
          <cca3>GLP</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>EUR</currency>
       <callingCode>590</callingCode>
@@ -3692,16 +3693,16 @@
       <altSpellings>GP</altSpellings>
       <altSpellings>Gwadloup</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
       </languages>
-      <coordinates lat="16.25" long="-61.583333" />
+      <coordinates lat="16.25" long="-61.583333"/>
       <demonym>Guadeloupian</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -3727,16 +3728,16 @@
       <altSpellings>GM</altSpellings>
       <altSpellings>Republic of the Gambia</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Western Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="13.46666666" long="-16.56666666" />
+      <coordinates lat="13.46666666" long="-16.56666666"/>
       <demonym>Gambian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -3766,16 +3767,16 @@
       <altSpellings>Republic of Guinea-Bissau</altSpellings>
       <altSpellings>República da Guiné-Bissau</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Western Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <por>Portuguese</por>
       </languages>
-      <coordinates lat="12" long="-15" />
+      <coordinates lat="12" long="-15"/>
       <demonym>Guinea-Bissauan</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -3816,18 +3817,18 @@
       <altSpellings>République de Guinée équatoriale</altSpellings>
       <altSpellings>República da Guiné Equatorial</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Middle Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
          <por>Portuguese</por>
          <spa>Spanish</spa>
       </languages>
-      <coordinates lat="2" long="10" />
+      <coordinates lat="2" long="10"/>
       <demonym>Equatorial Guinean</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -3859,16 +3860,16 @@
       <altSpellings>Hellenic Republic</altSpellings>
       <altSpellings>Ελληνική Δημοκρατία</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Southern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <ell>Greek</ell>
       </languages>
-      <coordinates lat="39" long="22" />
+      <coordinates lat="39" long="22"/>
       <demonym>Greek</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -3899,16 +3900,16 @@
       <capital>St. George's</capital>
       <altSpellings>GD</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="12.11666666" long="-61.66666666" />
+      <coordinates lat="12.11666666" long="-61.66666666"/>
       <demonym>Grenadian</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -3926,7 +3927,7 @@
          <cca2>GL</cca2>
          <ccn3>304</ccn3>
          <cca3>GRL</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>DKK</currency>
       <callingCode>299</callingCode>
@@ -3934,16 +3935,16 @@
       <altSpellings>GL</altSpellings>
       <altSpellings>Grønland</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Northern America</subregion>
-
+		
       </infosContinent>
       <languages>
          <kal>Greenlandic</kal>
       </languages>
-      <coordinates lat="72" long="-40" />
+      <coordinates lat="72" long="-40"/>
       <demonym>Greenlandic</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -3968,16 +3969,16 @@
       <capital>Guatemala City</capital>
       <altSpellings>GT</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Central America</subregion>
-
+		
       </infosContinent>
       <languages>
          <spa>Spanish</spa>
       </languages>
-      <coordinates lat="15.5" long="-90.25" />
+      <coordinates lat="15.5" long="-90.25"/>
       <demonym>Guatemalan</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -4001,7 +4002,7 @@
          <cca2>GF</cca2>
          <ccn3>254</ccn3>
          <cca3>GUF</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>EUR</currency>
       <callingCode>594</callingCode>
@@ -4010,17 +4011,17 @@
       <altSpellings>Guiana</altSpellings>
       <altSpellings>Guyane</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>South America</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
       </languages>
-      <coordinates lat="4" long="-53" />
-      <demonym />
+      <coordinates lat="4" long="-53"/>
+      <demonym/>
       <landlocked>false</landlocked>
       <borders>
          <neighbour>BRA</neighbour>
@@ -4057,18 +4058,18 @@
       <altSpellings>GU</altSpellings>
       <altSpellings>Guåhån</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Micronesia</subregion>
-
+		
       </infosContinent>
       <languages>
          <cha>Chamorro</cha>
          <eng>English</eng>
          <spa>Spanish</spa>
       </languages>
-      <coordinates lat="13.46666666" long="144.78333333" />
+      <coordinates lat="13.46666666" long="144.78333333"/>
       <demonym>Guamanian</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -4094,16 +4095,16 @@
       <altSpellings>GY</altSpellings>
       <altSpellings>Co-operative Republic of Guyana</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>South America</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="5" long="-59" />
+      <coordinates lat="5" long="-59"/>
       <demonym>Guyanese</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -4138,17 +4139,17 @@
       <capital>City of Victoria</capital>
       <altSpellings>HK</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Eastern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <zho>Chinese</zho>
       </languages>
-      <coordinates lat="22.267" long="114.188" />
+      <coordinates lat="22.267" long="114.188"/>
       <demonym>Hong Konger</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -4170,21 +4171,21 @@
          <cca2>HM</cca2>
          <ccn3>334</ccn3>
          <cca3>HMD</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>AUD</currency>
-      <capital />
+      <capital/>
       <altSpellings>HM</altSpellings>
       <altSpellings>Heard Island and McDonald Islands</altSpellings>
       <infosContinent>
-
-         <continent />
-
+			
+         <continent/>
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="-53.1" long="72.51666666" />
+      <coordinates lat="-53.1" long="72.51666666"/>
       <demonym>Heard and McDonald Islander</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -4211,16 +4212,16 @@
       <altSpellings>Republic of Honduras</altSpellings>
       <altSpellings>República de Honduras</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Central America</subregion>
-
+		
       </infosContinent>
       <languages>
          <spa>Spanish</spa>
       </languages>
-      <coordinates lat="15" long="-86.5" />
+      <coordinates lat="15" long="-86.5"/>
       <demonym>Honduran</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -4253,16 +4254,16 @@
       <altSpellings>Republic of Croatia</altSpellings>
       <altSpellings>Republika Hrvatska</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Southern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <hrv>Croatian</hrv>
       </languages>
-      <coordinates lat="45.16666666" long="15.5" />
+      <coordinates lat="45.16666666" long="15.5"/>
       <demonym>Croatian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -4302,17 +4303,17 @@
       <altSpellings>République d'Haïti</altSpellings>
       <altSpellings>Repiblik Ayiti</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
          <hat>Haitian Creole</hat>
       </languages>
-      <coordinates lat="19" long="-72.41666666" />
+      <coordinates lat="19" long="-72.41666666"/>
       <demonym>Haitian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -4340,16 +4341,16 @@
       <capital>Budapest</capital>
       <altSpellings>HU</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Central Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <hun>Hungarian</hun>
       </languages>
-      <coordinates lat="47" long="20" />
+      <coordinates lat="47" long="20"/>
       <demonym>Hungarian</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -4385,16 +4386,16 @@
       <altSpellings>Republic of Indonesia</altSpellings>
       <altSpellings>Republik Indonesia</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>South-Eastern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <ind>Indonesian</ind>
       </languages>
-      <coordinates lat="-5" long="120" />
+      <coordinates lat="-5" long="120"/>
       <demonym>Indonesian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -4421,7 +4422,7 @@
          <cca2>IM</cca2>
          <ccn3>833</ccn3>
          <cca3>IMN</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>GBP</currency>
       <callingCode>44</callingCode>
@@ -4431,17 +4432,17 @@
       <altSpellings>Mann</altSpellings>
       <altSpellings>Mannin</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Northern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <glv>Manx</glv>
       </languages>
-      <coordinates lat="54.25" long="-4.5" />
+      <coordinates lat="54.25" long="-4.5"/>
       <demonym>Manx</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -4478,18 +4479,18 @@
       <altSpellings>Bharat Ganrajya</altSpellings>
       <altSpellings>இந்தியா</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Southern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <hin>Hindi</hin>
          <tam>Tamil</tam>
       </languages>
-      <coordinates lat="20" long="77" />
+      <coordinates lat="20" long="77"/>
       <demonym>Indian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -4517,23 +4518,23 @@
          <cca2>IO</cca2>
          <ccn3>086</ccn3>
          <cca3>IOT</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>USD</currency>
       <callingCode>246</callingCode>
       <capital>Diego Garcia</capital>
       <altSpellings>IO</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Eastern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="-6" long="71.5" />
+      <coordinates lat="-6" long="71.5"/>
       <demonym>Indian</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -4565,17 +4566,17 @@
       <altSpellings>Republic of Ireland</altSpellings>
       <altSpellings>Poblacht na hÉireann</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Northern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <gle>Irish</gle>
       </languages>
-      <coordinates lat="53" long="-8" />
+      <coordinates lat="53" long="-8"/>
       <demonym>Irish</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -4607,16 +4608,16 @@
       <altSpellings>Iran, Islamic Republic of</altSpellings>
       <altSpellings>Jomhuri-ye Eslāmi-ye Irān</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Southern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <fas>Persian</fas>
       </languages>
-      <coordinates lat="32" long="53" />
+      <coordinates lat="32" long="53"/>
       <demonym>Iranian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -4660,18 +4661,18 @@
       <altSpellings>Republic of Iraq</altSpellings>
       <altSpellings>Jumhūriyyat al-‘Irāq</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Western Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <ara>Arabic</ara>
          <arc>Aramaic</arc>
          <ckb>Sorani</ckb>
       </languages>
-      <coordinates lat="33" long="44" />
+      <coordinates lat="33" long="44"/>
       <demonym>Iraqi</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -4707,16 +4708,16 @@
       <altSpellings>Republic of Iceland</altSpellings>
       <altSpellings>Lýðveldið Ísland</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Northern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <isl>Icelandic</isl>
       </languages>
-      <coordinates lat="65" long="-18" />
+      <coordinates lat="65" long="-18"/>
       <demonym>Icelander</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -4747,17 +4748,17 @@
       <altSpellings>State of Israel</altSpellings>
       <altSpellings>Medīnat Yisrā'el</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Western Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <ara>Arabic</ara>
          <heb>Hebrew</heb>
       </languages>
-      <coordinates lat="31.47" long="35.13" />
+      <coordinates lat="31.47" long="35.13"/>
       <demonym>Israeli</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -4798,18 +4799,18 @@
       <altSpellings>Italian Republic</altSpellings>
       <altSpellings>Repubblica italiana</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Southern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <bar>Austro-Bavarian German</bar>
          <ita>Italian</ita>
          <srd>Sardinian</srd>
       </languages>
-      <coordinates lat="42.83333333" long="12.83333333" />
+      <coordinates lat="42.83333333" long="12.83333333"/>
       <demonym>Italian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -4846,17 +4847,17 @@
       <capital>Kingston</capital>
       <altSpellings>JM</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <jam>Jamaican Patois</jam>
       </languages>
-      <coordinates lat="18.25" long="-77.5" />
+      <coordinates lat="18.25" long="-77.5"/>
       <demonym>Jamaican</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -4882,7 +4883,7 @@
          <cca2>JE</cca2>
          <ccn3>832</ccn3>
          <cca3>JEY</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>GBP</currency>
       <callingCode>44</callingCode>
@@ -4892,18 +4893,18 @@
       <altSpellings>Bailliage de Jersey</altSpellings>
       <altSpellings>Bailliage dé Jèrri</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Northern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <fra>French</fra>
          <nrf>Jèrriais</nrf>
       </languages>
-      <coordinates lat="49.25" long="-2.16666666" />
+      <coordinates lat="49.25" long="-2.16666666"/>
       <demonym>Channel Islander</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -4931,16 +4932,16 @@
       <altSpellings>Hashemite Kingdom of Jordan</altSpellings>
       <altSpellings>al-Mamlakah al-Urdunīyah al-Hāshimīyah</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Western Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <ara>Arabic</ara>
       </languages>
-      <coordinates lat="31" long="36" />
+      <coordinates lat="31" long="36"/>
       <demonym>Jordanian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -4974,16 +4975,16 @@
       <altSpellings>Nippon</altSpellings>
       <altSpellings>Nihon</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Eastern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <jpn>Japanese</jpn>
       </languages>
-      <coordinates lat="36" long="138" />
+      <coordinates lat="36" long="138"/>
       <demonym>Japanese</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -5021,17 +5022,17 @@
       <altSpellings>Республика Казахстан</altSpellings>
       <altSpellings>Respublika Kazakhstan</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Central Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <kaz>Kazakh</kaz>
          <rus>Russian</rus>
       </languages>
-      <coordinates lat="48" long="68" />
+      <coordinates lat="48" long="68"/>
       <demonym>Kazakhstani</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -5069,17 +5070,17 @@
       <altSpellings>Republic of Kenya</altSpellings>
       <altSpellings>Jamhuri ya Kenya</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Eastern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <swa>Swahili</swa>
       </languages>
-      <coordinates lat="1" long="38" />
+      <coordinates lat="1" long="38"/>
       <demonym>Kenyan</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -5119,17 +5120,17 @@
       <altSpellings>Кыргыз Республикасы</altSpellings>
       <altSpellings>Kyrgyz Respublikasy</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Central Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <kir>Kyrgyz</kir>
          <rus>Russian</rus>
       </languages>
-      <coordinates lat="41" long="75" />
+      <coordinates lat="41" long="75"/>
       <demonym>Kirghiz</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -5161,16 +5162,16 @@
       <altSpellings>KH</altSpellings>
       <altSpellings>Kingdom of Cambodia</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>South-Eastern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <khm>Khmer</khm>
       </languages>
-      <coordinates lat="13" long="105" />
+      <coordinates lat="13" long="105"/>
       <demonym>Cambodian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -5206,17 +5207,17 @@
       <altSpellings>Republic of Kiribati</altSpellings>
       <altSpellings>Ribaberiki Kiribati</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Micronesia</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <gil>Gilbertese</gil>
       </languages>
-      <coordinates lat="1.41666666" long="173" />
+      <coordinates lat="1.41666666" long="173"/>
       <demonym>I-Kiribati</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -5242,16 +5243,16 @@
       <altSpellings>KN</altSpellings>
       <altSpellings>Federation of Saint Christopher and Nevis</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="17.33333333" long="-62.75" />
+      <coordinates lat="17.33333333" long="-62.75"/>
       <demonym>Kittitian or Nevisian</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -5279,16 +5280,16 @@
       <altSpellings>Korea, Republic of</altSpellings>
       <altSpellings>Republic of Korea</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Eastern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <kor>Korean</kor>
       </languages>
-      <coordinates lat="37" long="127.5" />
+      <coordinates lat="37" long="127.5"/>
       <demonym>South Korean</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -5310,7 +5311,7 @@
       </name>
       <codes>
          <cca2>XK</cca2>
-         <ccn3 />
+         <ccn3/>
          <cca3>UNK</cca3>
          <cioc>KOS</cioc>
       </codes>
@@ -5320,17 +5321,17 @@
       <altSpellings>XK</altSpellings>
       <altSpellings>Република Косово</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Eastern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <sqi>Albanian</sqi>
          <srp>Serbian</srp>
       </languages>
-      <coordinates lat="42.666667" long="21.166667" />
+      <coordinates lat="42.666667" long="21.166667"/>
       <demonym>Kosovar</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -5363,16 +5364,16 @@
       <altSpellings>State of Kuwait</altSpellings>
       <altSpellings>Dawlat al-Kuwait</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Western Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <ara>Arabic</ara>
       </languages>
-      <coordinates lat="29.5" long="45.75" />
+      <coordinates lat="29.5" long="45.75"/>
       <demonym>Kuwaiti</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -5404,16 +5405,16 @@
       <altSpellings>Lao People's Democratic Republic</altSpellings>
       <altSpellings>Sathalanalat Paxathipatai Paxaxon Lao</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>South-Eastern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <lao>Lao</lao>
       </languages>
-      <coordinates lat="18" long="105" />
+      <coordinates lat="18" long="105"/>
       <demonym>Laotian</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -5451,17 +5452,17 @@
       <altSpellings>Lebanese Republic</altSpellings>
       <altSpellings>Al-Jumhūrīyah Al-Libnānīyah</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Western Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <ara>Arabic</ara>
          <fra>French</fra>
       </languages>
-      <coordinates lat="33.83333333" long="35.83333333" />
+      <coordinates lat="33.83333333" long="35.83333333"/>
       <demonym>Lebanese</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -5491,16 +5492,16 @@
       <altSpellings>LR</altSpellings>
       <altSpellings>Republic of Liberia</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Western Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="6.5" long="-9.5" />
+      <coordinates lat="6.5" long="-9.5"/>
       <demonym>Liberian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -5532,16 +5533,16 @@
       <altSpellings>State of Libya</altSpellings>
       <altSpellings>Dawlat Libya</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Northern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <ara>Arabic</ara>
       </languages>
-      <coordinates lat="25" long="17" />
+      <coordinates lat="25" long="17"/>
       <demonym>Libyan</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -5574,16 +5575,16 @@
       <capital>Castries</capital>
       <altSpellings>LC</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="13.88333333" long="-60.96666666" />
+      <coordinates lat="13.88333333" long="-60.96666666"/>
       <demonym>Saint Lucian</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -5610,16 +5611,16 @@
       <altSpellings>Principality of Liechtenstein</altSpellings>
       <altSpellings>Fürstentum Liechtenstein</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Western Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <deu>German</deu>
       </languages>
-      <coordinates lat="47.26666666" long="9.53333333" />
+      <coordinates lat="47.26666666" long="9.53333333"/>
       <demonym>Liechtensteiner</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -5656,17 +5657,17 @@
       <altSpellings>ilaṅkai</altSpellings>
       <altSpellings>Democratic Socialist Republic of Sri Lanka</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Southern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <sin>Sinhala</sin>
          <tam>Tamil</tam>
       </languages>
-      <coordinates lat="7" long="81" />
+      <coordinates lat="7" long="81"/>
       <demonym>Sri Lankan</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -5701,17 +5702,17 @@
       <altSpellings>Kingdom of Lesotho</altSpellings>
       <altSpellings>Muso oa Lesotho</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Southern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <sot>Sotho</sot>
       </languages>
-      <coordinates lat="-29.5" long="28.5" />
+      <coordinates lat="-29.5" long="28.5"/>
       <demonym>Mosotho</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -5741,16 +5742,16 @@
       <altSpellings>Republic of Lithuania</altSpellings>
       <altSpellings>Lietuvos Respublika</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Northern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <lit>Lithuanian</lit>
       </languages>
-      <coordinates lat="56" long="24" />
+      <coordinates lat="56" long="24"/>
       <demonym>Lithuanian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -5793,18 +5794,18 @@
       <altSpellings>Großherzogtum Luxemburg</altSpellings>
       <altSpellings>Groussherzogtum Lëtzebuerg</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Western Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <deu>German</deu>
          <fra>French</fra>
          <ltz>Luxembourgish</ltz>
       </languages>
-      <coordinates lat="49.75" long="6.16666666" />
+      <coordinates lat="49.75" long="6.16666666"/>
       <demonym>Luxembourger</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -5836,16 +5837,16 @@
       <altSpellings>Republic of Latvia</altSpellings>
       <altSpellings>Latvijas Republika</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Northern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <lav>Latvian</lav>
       </languages>
-      <coordinates lat="57" long="25" />
+      <coordinates lat="57" long="25"/>
       <demonym>Latvian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -5873,11 +5874,11 @@
          <cca2>MO</cca2>
          <ccn3>446</ccn3>
          <cca3>MAC</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>MOP</currency>
       <callingCode>853</callingCode>
-      <capital />
+      <capital/>
       <altSpellings>MO</altSpellings>
       <altSpellings>澳门</altSpellings>
       <altSpellings>Macao</altSpellings>
@@ -5885,17 +5886,17 @@
       <altSpellings>中華人民共和國澳門特別行政區</altSpellings>
       <altSpellings>Região Administrativa Especial de Macau da República Popular da China</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Eastern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <por>Portuguese</por>
          <zho>Chinese</zho>
       </languages>
-      <coordinates lat="22.16666666" long="113.55" />
+      <coordinates lat="22.16666666" long="113.55"/>
       <demonym>Chinese</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -5917,7 +5918,7 @@
          <cca2>MF</cca2>
          <ccn3>663</ccn3>
          <cca3>MAF</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>EUR</currency>
       <callingCode>590</callingCode>
@@ -5927,16 +5928,16 @@
       <altSpellings>Collectivité de Saint-Martin</altSpellings>
       <altSpellings>Saint Martin (French part)</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
       </languages>
-      <coordinates lat="18.08333333" long="-63.95" />
+      <coordinates lat="18.08333333" long="-63.95"/>
       <demonym>Saint Martin Islander</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -5971,17 +5972,17 @@
       <altSpellings>Kingdom of Morocco</altSpellings>
       <altSpellings>Al-Mamlakah al-Maġribiyah</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Northern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <ara>Arabic</ara>
          <ber>Berber</ber>
       </languages>
-      <coordinates lat="32" long="-5" />
+      <coordinates lat="32" long="-5"/>
       <demonym>Moroccan</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -6013,16 +6014,16 @@
       <altSpellings>Principality of Monaco</altSpellings>
       <altSpellings>Principauté de Monaco</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Western Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
       </languages>
-      <coordinates lat="43.73333333" long="7.4" />
+      <coordinates lat="43.73333333" long="7.4"/>
       <demonym>Monegasque</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -6053,16 +6054,16 @@
       <altSpellings>Republic of Moldova</altSpellings>
       <altSpellings>Republica Moldova</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Eastern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <ron>Moldavian</ron>
       </languages>
-      <coordinates lat="47" long="29" />
+      <coordinates lat="47" long="29"/>
       <demonym>Moldovan</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -6098,17 +6099,17 @@
       <altSpellings>Repoblikan'i Madagasikara</altSpellings>
       <altSpellings>République de Madagascar</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Eastern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
          <mlg>Malagasy</mlg>
       </languages>
-      <coordinates lat="-20" long="47" />
+      <coordinates lat="-20" long="47"/>
       <demonym>Malagasy</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -6136,16 +6137,16 @@
       <altSpellings>Republic of the Maldives</altSpellings>
       <altSpellings>Dhivehi Raajjeyge Jumhooriyya</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Southern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <div>Maldivian</div>
       </languages>
-      <coordinates lat="3.25" long="73" />
+      <coordinates lat="3.25" long="73"/>
       <demonym>Maldivan</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -6173,16 +6174,16 @@
       <altSpellings>United Mexican States</altSpellings>
       <altSpellings>Estados Unidos Mexicanos</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Northern America</subregion>
-
+		
       </infosContinent>
       <languages>
          <spa>Spanish</spa>
       </languages>
-      <coordinates lat="23" long="-102" />
+      <coordinates lat="23" long="-102"/>
       <demonym>Mexican</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -6218,17 +6219,17 @@
       <altSpellings>Republic of the Marshall Islands</altSpellings>
       <altSpellings>Aolepān Aorōkin M̧ajeļ</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Micronesia</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <mah>Marshallese</mah>
       </languages>
-      <coordinates lat="9" long="168" />
+      <coordinates lat="9" long="168"/>
       <demonym>Marshallese</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -6256,16 +6257,16 @@
       <altSpellings>Republic of Macedonia</altSpellings>
       <altSpellings>Република Македонија</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Southern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <mkd>Macedonian</mkd>
       </languages>
-      <coordinates lat="41.83333333" long="22" />
+      <coordinates lat="41.83333333" long="22"/>
       <demonym>Macedonian</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -6299,16 +6300,16 @@
       <altSpellings>Republic of Mali</altSpellings>
       <altSpellings>République du Mali</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Western Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
       </languages>
-      <coordinates lat="17" long="-4" />
+      <coordinates lat="17" long="-4"/>
       <demonym>Malian</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -6348,17 +6349,17 @@
       <altSpellings>Republic of Malta</altSpellings>
       <altSpellings>Repubblika ta' Malta</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Southern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <mlt>Maltese</mlt>
       </languages>
-      <coordinates lat="35.83333333" long="14.58333333" />
+      <coordinates lat="35.83333333" long="14.58333333"/>
       <demonym>Maltese</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -6386,16 +6387,16 @@
       <altSpellings>Republic of the Union of Myanmar</altSpellings>
       <altSpellings>Pyidaunzu Thanmăda Myăma Nainngandaw</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>South-Eastern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <mya>Burmese</mya>
       </languages>
-      <coordinates lat="22" long="98" />
+      <coordinates lat="22" long="98"/>
       <demonym>Bamar</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -6428,16 +6429,16 @@
       <altSpellings>ME</altSpellings>
       <altSpellings>Crna Gora</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Southern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <srp>Montenegrin</srp>
       </languages>
-      <coordinates lat="42.5" long="19.3" />
+      <coordinates lat="42.5" long="19.3"/>
       <demonym>Montenegrin</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -6469,16 +6470,16 @@
       <capital>Ulan Bator</capital>
       <altSpellings>MN</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Eastern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <mon>Mongolian</mon>
       </languages>
-      <coordinates lat="46" long="105" />
+      <coordinates lat="46" long="105"/>
       <demonym>Mongolian</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -6508,7 +6509,7 @@
          <cca2>MP</cca2>
          <ccn3>580</ccn3>
          <cca3>MNP</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>USD</currency>
       <callingCode>1670</callingCode>
@@ -6517,18 +6518,18 @@
       <altSpellings>Commonwealth of the Northern Mariana Islands</altSpellings>
       <altSpellings>Sankattan Siha Na Islas Mariånas</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Micronesia</subregion>
-
+		
       </infosContinent>
       <languages>
          <cal>Carolinian</cal>
          <cha>Chamorro</cha>
          <eng>English</eng>
       </languages>
-      <coordinates lat="15.2" long="145.75" />
+      <coordinates lat="15.2" long="145.75"/>
       <demonym>American</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -6555,16 +6556,16 @@
       <altSpellings>Republic of Mozambique</altSpellings>
       <altSpellings>República de Moçambique</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Eastern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <por>Portuguese</por>
       </languages>
-      <coordinates lat="-18.25" long="35" />
+      <coordinates lat="-18.25" long="35"/>
       <demonym>Mozambican</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -6599,16 +6600,16 @@
       <altSpellings>Islamic Republic of Mauritania</altSpellings>
       <altSpellings>al-Jumhūriyyah al-ʾIslāmiyyah al-Mūrītāniyyah</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Western Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <ara>Arabic</ara>
       </languages>
-      <coordinates lat="20" long="-12" />
+      <coordinates lat="20" long="-12"/>
       <demonym>Mauritanian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -6632,23 +6633,23 @@
          <cca2>MS</cca2>
          <ccn3>500</ccn3>
          <cca3>MSR</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>XCD</currency>
       <callingCode>1664</callingCode>
       <capital>Plymouth</capital>
       <altSpellings>MS</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="16.75" long="-62.2" />
+      <coordinates lat="16.75" long="-62.2"/>
       <demonym>Montserratian</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -6666,23 +6667,23 @@
          <cca2>MQ</cca2>
          <ccn3>474</ccn3>
          <cca3>MTQ</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>EUR</currency>
       <callingCode>596</callingCode>
       <capital>Fort-de-France</capital>
       <altSpellings>MQ</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
       </languages>
-      <coordinates lat="14.666667" long="-61" />
+      <coordinates lat="14.666667" long="-61"/>
       <demonym>French</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -6717,18 +6718,18 @@
       <altSpellings>Republic of Mauritius</altSpellings>
       <altSpellings>République de Maurice</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Eastern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <fra>French</fra>
          <mfe>Mauritian Creole</mfe>
       </languages>
-      <coordinates lat="-20.28333333" long="57.55" />
+      <coordinates lat="-20.28333333" long="57.55"/>
       <demonym>Mauritian</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -6758,17 +6759,17 @@
       <altSpellings>MW</altSpellings>
       <altSpellings>Republic of Malawi</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Eastern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <nya>Chewa</nya>
       </languages>
-      <coordinates lat="-13.5" long="34" />
+      <coordinates lat="-13.5" long="34"/>
       <demonym>Malawian</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -6802,17 +6803,17 @@
       <capital>Kuala Lumpur</capital>
       <altSpellings>MY</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>South-Eastern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <msa>Malay</msa>
       </languages>
-      <coordinates lat="2.5" long="112.5" />
+      <coordinates lat="2.5" long="112.5"/>
       <demonym>Malaysian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -6835,7 +6836,7 @@
          <cca2>YT</cca2>
          <ccn3>175</ccn3>
          <cca3>MYT</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>EUR</currency>
       <callingCode>262</callingCode>
@@ -6844,16 +6845,16 @@
       <altSpellings>Department of Mayotte</altSpellings>
       <altSpellings>Département de Mayotte</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Eastern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
       </languages>
-      <coordinates lat="-12.83333333" long="45.16666666" />
+      <coordinates lat="-12.83333333" long="45.16666666"/>
       <demonym>Mahoran</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -6913,11 +6914,11 @@
       <altSpellings>Namibië</altSpellings>
       <altSpellings>Republic of Namibia</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Southern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <afr>Afrikaans</afr>
@@ -6930,7 +6931,7 @@
          <ndo>Ndonga</ndo>
          <tsn>Tswana</tsn>
       </languages>
-      <coordinates lat="-22" long="17" />
+      <coordinates lat="-22" long="17"/>
       <demonym>Namibian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -6954,23 +6955,23 @@
          <cca2>NC</cca2>
          <ccn3>540</ccn3>
          <cca3>NCL</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>XPF</currency>
       <callingCode>687</callingCode>
       <capital>Nouméa</capital>
       <altSpellings>NC</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Melanesia</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
       </languages>
-      <coordinates lat="-21.5" long="165.5" />
+      <coordinates lat="-21.5" long="165.5"/>
       <demonym>New Caledonian</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -6996,16 +6997,16 @@
       <altSpellings>NE</altSpellings>
       <altSpellings>Nijar</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Western Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
       </languages>
-      <coordinates lat="16" long="8" />
+      <coordinates lat="16" long="8"/>
       <demonym>Nigerien</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -7036,7 +7037,7 @@
          <cca2>NF</cca2>
          <ccn3>574</ccn3>
          <cca3>NFK</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>AUD</currency>
       <callingCode>672</callingCode>
@@ -7045,17 +7046,17 @@
       <altSpellings>Territory of Norfolk Island</altSpellings>
       <altSpellings>Teratri of Norf'k Ailen</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Australia and New Zealand</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <pih>Norfuk</pih>
       </languages>
-      <coordinates lat="-29.03333333" long="167.95" />
+      <coordinates lat="-29.03333333" long="167.95"/>
       <demonym>Norfolk Islander</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -7083,16 +7084,16 @@
       <altSpellings>Naíjíríà</altSpellings>
       <altSpellings>Federal Republic of Nigeria</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Western Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="10" long="8" />
+      <coordinates lat="10" long="8"/>
       <demonym>Nigerian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -7125,16 +7126,16 @@
       <altSpellings>Republic of Nicaragua</altSpellings>
       <altSpellings>República de Nicaragua</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Central America</subregion>
-
+		
       </infosContinent>
       <languages>
          <spa>Spanish</spa>
       </languages>
-      <coordinates lat="13" long="-85" />
+      <coordinates lat="13" long="-85"/>
       <demonym>Nicaraguan</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -7160,24 +7161,24 @@
          <cca2>NU</cca2>
          <ccn3>570</ccn3>
          <cca3>NIU</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>NZD</currency>
       <callingCode>683</callingCode>
       <capital>Alofi</capital>
       <altSpellings>NU</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Polynesia</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <niu>Niuean</niu>
       </languages>
-      <coordinates lat="-19.03333333" long="-169.86666666" />
+      <coordinates lat="-19.03333333" long="-169.86666666"/>
       <demonym>Niuean</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -7204,16 +7205,16 @@
       <altSpellings>Holland</altSpellings>
       <altSpellings>Nederland</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Western Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <nld>Dutch</nld>
       </languages>
-      <coordinates lat="52.5" long="5.75" />
+      <coordinates lat="52.5" long="5.75"/>
       <demonym>Dutch</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -7255,18 +7256,18 @@
       <altSpellings>Kongeriket Norge</altSpellings>
       <altSpellings>Kongeriket Noreg</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Northern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <nno>Norwegian Nynorsk</nno>
          <nob>Norwegian Bokmål</nob>
          <smi>Sami</smi>
       </languages>
-      <coordinates lat="62" long="10" />
+      <coordinates lat="62" long="10"/>
       <demonym>Norwegian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -7298,16 +7299,16 @@
       <altSpellings>Federal Democratic Republic of Nepal</altSpellings>
       <altSpellings>Loktāntrik Ganatantra Nepāl</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Southern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <nep>Nepali</nep>
       </languages>
-      <coordinates lat="28" long="84" />
+      <coordinates lat="28" long="84"/>
       <demonym>Nepalese</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -7344,17 +7345,17 @@
       <altSpellings>Republic of Nauru</altSpellings>
       <altSpellings>Ripublik Naoero</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Micronesia</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <nau>Nauru</nau>
       </languages>
-      <coordinates lat="-0.53333333" long="166.91666666" />
+      <coordinates lat="-0.53333333" long="166.91666666"/>
       <demonym>Nauruan</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -7388,18 +7389,18 @@
       <altSpellings>NZ</altSpellings>
       <altSpellings>Aotearoa</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Australia and New Zealand</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <mri>Māori</mri>
          <nzs>New Zealand Sign Language</nzs>
       </languages>
-      <coordinates lat="-41" long="174" />
+      <coordinates lat="-41" long="174"/>
       <demonym>New Zealander</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -7426,16 +7427,16 @@
       <altSpellings>Sultanate of Oman</altSpellings>
       <altSpellings>Salṭanat ʻUmān</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Western Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <ara>Arabic</ara>
       </languages>
-      <coordinates lat="21" long="57" />
+      <coordinates lat="21" long="57"/>
       <demonym>Omani</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -7472,17 +7473,17 @@
       <altSpellings>Islamic Republic of Pakistan</altSpellings>
       <altSpellings>Islāmī Jumhūriya'eh Pākistān</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Southern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <urd>Urdu</urd>
       </languages>
-      <coordinates lat="30" long="70" />
+      <coordinates lat="30" long="70"/>
       <demonym>Pakistani</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -7516,16 +7517,16 @@
       <altSpellings>Republic of Panama</altSpellings>
       <altSpellings>República de Panamá</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Central America</subregion>
-
+		
       </infosContinent>
       <languages>
          <spa>Spanish</spa>
       </languages>
-      <coordinates lat="9" long="-80" />
+      <coordinates lat="9" long="-80"/>
       <demonym>Panamanian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -7547,7 +7548,7 @@
          <cca2>PN</cca2>
          <ccn3>612</ccn3>
          <cca3>PCN</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>NZD</currency>
       <callingCode>64</callingCode>
@@ -7556,16 +7557,16 @@
       <altSpellings>Pitcairn</altSpellings>
       <altSpellings>Pitcairn Henderson Ducie and Oeno Islands</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Polynesia</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="-25.06666666" long="-130.1" />
+      <coordinates lat="-25.06666666" long="-130.1"/>
       <demonym>Pitcairn Islander</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -7600,18 +7601,18 @@
       <altSpellings>Republic of Peru</altSpellings>
       <altSpellings>República del Perú</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>South America</subregion>
-
+		
       </infosContinent>
       <languages>
          <aym>Aymara</aym>
          <que>Quechua</que>
          <spa>Spanish</spa>
       </languages>
-      <coordinates lat="-10" long="-76" />
+      <coordinates lat="-10" long="-76"/>
       <demonym>Peruvian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -7649,17 +7650,17 @@
       <altSpellings>Republic of the Philippines</altSpellings>
       <altSpellings>Repúblika ng Pilipinas</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>South-Eastern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <fil>Filipino</fil>
       </languages>
-      <coordinates lat="13" long="122" />
+      <coordinates lat="13" long="122"/>
       <demonym>Filipino</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -7690,17 +7691,17 @@
       <altSpellings>Republic of Palau</altSpellings>
       <altSpellings>Beluu er a Belau</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Micronesia</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <pau>Palauan</pau>
       </languages>
-      <coordinates lat="7.5" long="134.5" />
+      <coordinates lat="7.5" long="134.5"/>
       <demonym>Palauan</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -7735,18 +7736,18 @@
       <altSpellings>Independent State of Papua New Guinea</altSpellings>
       <altSpellings>Independen Stet bilong Papua Niugini</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Melanesia</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <hmo>Hiri Motu</hmo>
          <tpi>Tok Pisin</tpi>
       </languages>
-      <coordinates lat="-6" long="147" />
+      <coordinates lat="-6" long="147"/>
       <demonym>Papua New Guinean</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -7776,16 +7777,16 @@
       <altSpellings>Republic of Poland</altSpellings>
       <altSpellings>Rzeczpospolita Polska</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Central Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <pol>Polish</pol>
       </languages>
-      <coordinates lat="52" long="20" />
+      <coordinates lat="52" long="20"/>
       <demonym>Polish</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -7826,17 +7827,17 @@
       <altSpellings>Commonwealth of Puerto Rico</altSpellings>
       <altSpellings>Estado Libre Asociado de Puerto Rico</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <spa>Spanish</spa>
       </languages>
-      <coordinates lat="18.25" long="-66.5" />
+      <coordinates lat="18.25" long="-66.5"/>
       <demonym>Puerto Rican</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -7865,16 +7866,16 @@
       <altSpellings>Chosŏn Minjujuŭi Inmin Konghwaguk</altSpellings>
       <altSpellings>Korea, Democratic People's Republic of</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Eastern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <kor>Korean</kor>
       </languages>
-      <coordinates lat="40" long="127" />
+      <coordinates lat="40" long="127"/>
       <demonym>North Korean</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -7907,16 +7908,16 @@
       <altSpellings>Portuguese Republic</altSpellings>
       <altSpellings>República Portuguesa</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Southern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <por>Portuguese</por>
       </languages>
-      <coordinates lat="39.5" long="-8" />
+      <coordinates lat="39.5" long="-8"/>
       <demonym>Portuguese</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -7951,17 +7952,17 @@
       <altSpellings>República del Paraguay</altSpellings>
       <altSpellings>Tetã Paraguái</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>South America</subregion>
-
+		
       </infosContinent>
       <languages>
          <grn>Guaraní</grn>
          <spa>Spanish</spa>
       </languages>
-      <coordinates lat="-23" long="-58" />
+      <coordinates lat="-23" long="-58"/>
       <demonym>Paraguayan</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -7995,16 +7996,16 @@
       <altSpellings>State of Palestine</altSpellings>
       <altSpellings>Dawlat Filasṭin</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Western Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <ara>Arabic</ara>
       </languages>
-      <coordinates lat="31.9" long="35.2" />
+      <coordinates lat="31.9" long="35.2"/>
       <demonym>Palestinian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -8027,7 +8028,7 @@
          <cca2>PF</cca2>
          <ccn3>258</ccn3>
          <cca3>PYF</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>XPF</currency>
       <callingCode>689</callingCode>
@@ -8037,16 +8038,16 @@
       <altSpellings>French Polynesia</altSpellings>
       <altSpellings>Pōrīnetia Farāni</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Polynesia</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
       </languages>
-      <coordinates lat="-15" long="-140" />
+      <coordinates lat="-15" long="-140"/>
       <demonym>French Polynesian</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -8074,16 +8075,16 @@
       <altSpellings>State of Qatar</altSpellings>
       <altSpellings>Dawlat Qaṭar</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Western Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <ara>Arabic</ara>
       </languages>
-      <coordinates lat="25.5" long="51.25" />
+      <coordinates lat="25.5" long="51.25"/>
       <demonym>Qatari</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -8104,7 +8105,7 @@
          <cca2>RE</cca2>
          <ccn3>638</ccn3>
          <cca3>REU</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>EUR</currency>
       <callingCode>262</callingCode>
@@ -8112,16 +8113,16 @@
       <altSpellings>RE</altSpellings>
       <altSpellings>Reunion</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Eastern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
       </languages>
-      <coordinates lat="-21.15" long="55.5" />
+      <coordinates lat="-21.15" long="55.5"/>
       <demonym>French</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -8149,16 +8150,16 @@
       <altSpellings>Roumania</altSpellings>
       <altSpellings>România</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Eastern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <ron>Romanian</ron>
       </languages>
-      <coordinates lat="46" long="25" />
+      <coordinates lat="46" long="25"/>
       <demonym>Romanian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -8196,16 +8197,16 @@
       <altSpellings>Российская Федерация</altSpellings>
       <altSpellings>Rossiyskaya Federatsiya</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Eastern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <rus>Russian</rus>
       </languages>
-      <coordinates lat="60" long="100" />
+      <coordinates lat="60" long="100"/>
       <demonym>Russian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -8257,18 +8258,18 @@
       <altSpellings>Repubulika y'u Rwanda</altSpellings>
       <altSpellings>République du Rwanda</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Eastern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <fra>French</fra>
          <kin>Kinyarwanda</kin>
       </languages>
-      <coordinates lat="-2" long="30" />
+      <coordinates lat="-2" long="30"/>
       <demonym>Rwandan</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -8303,16 +8304,16 @@
       <altSpellings>Kingdom of Saudi Arabia</altSpellings>
       <altSpellings>Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Western Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <ara>Arabic</ara>
       </languages>
-      <coordinates lat="25" long="45" />
+      <coordinates lat="25" long="45"/>
       <demonym>Saudi Arabian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -8352,17 +8353,17 @@
       <altSpellings>Republic of the Sudan</altSpellings>
       <altSpellings>Jumhūrīyat as-Sūdān</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Northern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <ara>Arabic</ara>
          <eng>English</eng>
       </languages>
-      <coordinates lat="15" long="30" />
+      <coordinates lat="15" long="30"/>
       <demonym>Sudanese</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -8398,16 +8399,16 @@
       <altSpellings>Republic of Senegal</altSpellings>
       <altSpellings>République du Sénégal</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Western Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
       </languages>
-      <coordinates lat="14" long="-14" />
+      <coordinates lat="14" long="-14"/>
       <demonym>Senegalese</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -8456,11 +8457,11 @@
       <altSpellings>Republik Singapura</altSpellings>
       <altSpellings>新加坡共和国</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>South-Eastern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <zho>Chinese</zho>
@@ -8468,7 +8469,7 @@
          <msa>Malay</msa>
          <tam>Tamil</tam>
       </languages>
-      <coordinates lat="1.36666666" long="103.8" />
+      <coordinates lat="1.36666666" long="103.8"/>
       <demonym>Singaporean</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -8486,7 +8487,7 @@
          <cca2>GS</cca2>
          <ccn3>239</ccn3>
          <cca3>SGS</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>GBP</currency>
       <callingCode>500</callingCode>
@@ -8494,16 +8495,16 @@
       <altSpellings>GS</altSpellings>
       <altSpellings>South Georgia and the South Sandwich Islands</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>South America</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="-54.5" long="-37" />
+      <coordinates lat="-54.5" long="-37"/>
       <demonym>South Georgian South Sandwich Islander</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -8521,7 +8522,7 @@
          <cca2>SJ</cca2>
          <ccn3>744</ccn3>
          <cca3>SJM</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>NOK</currency>
       <callingCode>4779</callingCode>
@@ -8529,16 +8530,16 @@
       <altSpellings>SJ</altSpellings>
       <altSpellings>Svalbard and Jan Mayen Islands</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Northern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <nor>Norwegian</nor>
       </languages>
-      <coordinates lat="78" long="20" />
+      <coordinates lat="78" long="20"/>
       <demonym>Norwegian</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -8563,16 +8564,16 @@
       <capital>Honiara</capital>
       <altSpellings>SB</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Melanesia</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="-8" long="159" />
+      <coordinates lat="-8" long="159"/>
       <demonym>Solomon Islander</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -8598,16 +8599,16 @@
       <altSpellings>SL</altSpellings>
       <altSpellings>Republic of Sierra Leone</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Western Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="8.5" long="-11.5" />
+      <coordinates lat="8.5" long="-11.5"/>
       <demonym>Sierra Leonean</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -8639,16 +8640,16 @@
       <altSpellings>Republic of El Salvador</altSpellings>
       <altSpellings>República de El Salvador</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Central America</subregion>
-
+		
       </infosContinent>
       <languages>
          <spa>Spanish</spa>
       </languages>
-      <coordinates lat="13.83333333" long="-88.91666666" />
+      <coordinates lat="13.83333333" long="-88.91666666"/>
       <demonym>Salvadoran</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -8679,16 +8680,16 @@
       <altSpellings>Republic of San Marino</altSpellings>
       <altSpellings>Repubblica di San Marino</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Southern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <ita>Italian</ita>
       </languages>
-      <coordinates lat="43.76666666" long="12.41666666" />
+      <coordinates lat="43.76666666" long="12.41666666"/>
       <demonym>Sammarinese</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -8724,17 +8725,17 @@
       <altSpellings>Jamhuuriyadda Federaalka Soomaaliya</altSpellings>
       <altSpellings>Jumhūriyyat aṣ-Ṣūmāl al-Fiderāliyya</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Eastern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <ara>Arabic</ara>
          <som>Somali</som>
       </languages>
-      <coordinates lat="10" long="49" />
+      <coordinates lat="10" long="49"/>
       <demonym>Somali</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -8757,7 +8758,7 @@
          <cca2>PM</cca2>
          <ccn3>666</ccn3>
          <cca3>SPM</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>EUR</currency>
       <callingCode>508</callingCode>
@@ -8765,16 +8766,16 @@
       <altSpellings>PM</altSpellings>
       <altSpellings>Collectivité territoriale de Saint-Pierre-et-Miquelon</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Northern America</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
       </languages>
-      <coordinates lat="46.83333333" long="-56.33333333" />
+      <coordinates lat="46.83333333" long="-56.33333333"/>
       <demonym>French</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -8804,16 +8805,16 @@
       <altSpellings>Република Србија</altSpellings>
       <altSpellings>Republika Srbija</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Southern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <srp>Serbian</srp>
       </languages>
-      <coordinates lat="44" long="21" />
+      <coordinates lat="44" long="21"/>
       <demonym>Serbian</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -8841,23 +8842,23 @@
          <cca2>SS</cca2>
          <ccn3>728</ccn3>
          <cca3>SSD</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>SSP</currency>
       <callingCode>211</callingCode>
       <capital>Juba</capital>
       <altSpellings>SS</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Middle Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="7" long="30" />
+      <coordinates lat="7" long="30"/>
       <demonym>South Sudanese</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -8893,16 +8894,16 @@
       <altSpellings>Sao Tome and Principe</altSpellings>
       <altSpellings>República Democrática de São Tomé e Príncipe</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Middle Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <por>Portuguese</por>
       </languages>
-      <coordinates lat="1" long="7" />
+      <coordinates lat="1" long="7"/>
       <demonym>Sao Tomean</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -8931,16 +8932,16 @@
       <altSpellings>Republic of Suriname</altSpellings>
       <altSpellings>Republiek Suriname</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>South America</subregion>
-
+		
       </infosContinent>
       <languages>
          <nld>Dutch</nld>
       </languages>
-      <coordinates lat="4" long="-56" />
+      <coordinates lat="4" long="-56"/>
       <demonym>Surinamer</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -8972,16 +8973,16 @@
       <altSpellings>Slovak Republic</altSpellings>
       <altSpellings>Slovenská republika</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Central Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <slk>Slovak</slk>
       </languages>
-      <coordinates lat="48.66666666" long="19.5" />
+      <coordinates lat="48.66666666" long="19.5"/>
       <demonym>Slovak</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -9015,16 +9016,16 @@
       <altSpellings>Republic of Slovenia</altSpellings>
       <altSpellings>Republika Slovenija</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Southern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <slv>Slovene</slv>
       </languages>
-      <coordinates lat="46.11666666" long="14.81666666" />
+      <coordinates lat="46.11666666" long="14.81666666"/>
       <demonym>Slovene</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -9057,16 +9058,16 @@
       <altSpellings>Kingdom of Sweden</altSpellings>
       <altSpellings>Konungariket Sverige</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Northern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <swe>Swedish</swe>
       </languages>
-      <coordinates lat="62" long="15" />
+      <coordinates lat="62" long="15"/>
       <demonym>Swedish</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -9104,17 +9105,17 @@
       <altSpellings>Kingdom of Swaziland</altSpellings>
       <altSpellings>Umbuso waseSwatini</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Southern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <ssw>Swazi</ssw>
       </languages>
-      <coordinates lat="-26.5" long="31.5" />
+      <coordinates lat="-26.5" long="31.5"/>
       <demonym>Swazi</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -9144,7 +9145,7 @@
          <cca2>SX</cca2>
          <ccn3>534</ccn3>
          <cca3>SXM</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>ANG</currency>
       <callingCode>1721</callingCode>
@@ -9152,18 +9153,18 @@
       <altSpellings>SX</altSpellings>
       <altSpellings>Sint Maarten (Dutch part)</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <fra>French</fra>
          <nld>Dutch</nld>
       </languages>
-      <coordinates lat="18.033333" long="-63.05" />
+      <coordinates lat="18.033333" long="-63.05"/>
       <demonym>St. Maartener</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -9202,18 +9203,18 @@
       <altSpellings>Repiblik Sesel</altSpellings>
       <altSpellings>République des Seychelles</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Eastern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <crs>Seychellois Creole</crs>
          <eng>English</eng>
          <fra>French</fra>
       </languages>
-      <coordinates lat="-4.58333333" long="55.66666666" />
+      <coordinates lat="-4.58333333" long="55.66666666"/>
       <demonym>Seychellois</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -9241,16 +9242,16 @@
       <altSpellings>Syrian Arab Republic</altSpellings>
       <altSpellings>Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Western Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <ara>Arabic</ara>
       </languages>
-      <coordinates lat="35" long="38" />
+      <coordinates lat="35" long="38"/>
       <demonym>Syrian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -9275,23 +9276,23 @@
          <cca2>TC</cca2>
          <ccn3>796</ccn3>
          <cca3>TCA</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>USD</currency>
       <callingCode>1649</callingCode>
       <capital>Cockburn Town</capital>
       <altSpellings>TC</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="21.75" long="-71.58333333" />
+      <coordinates lat="21.75" long="-71.58333333"/>
       <demonym>Turks and Caicos Islander</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -9323,17 +9324,17 @@
       <altSpellings>Republic of Chad</altSpellings>
       <altSpellings>République du Tchad</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Middle Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <ara>Arabic</ara>
          <fra>French</fra>
       </languages>
-      <coordinates lat="15" long="19" />
+      <coordinates lat="15" long="19"/>
       <demonym>Chadian</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -9369,16 +9370,16 @@
       <altSpellings>Togolese Republic</altSpellings>
       <altSpellings>République Togolaise</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Western Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
       </languages>
-      <coordinates lat="8" long="1.16666666" />
+      <coordinates lat="8" long="1.16666666"/>
       <demonym>Togolese</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -9414,16 +9415,16 @@
       <altSpellings>ราชอาณาจักรไทย</altSpellings>
       <altSpellings>Ratcha Anachak Thai</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>South-Eastern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <tha>Thai</tha>
       </languages>
-      <coordinates lat="15" long="100" />
+      <coordinates lat="15" long="100"/>
       <demonym>Thai</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -9462,17 +9463,17 @@
       <altSpellings>Ҷумҳурии Тоҷикистон</altSpellings>
       <altSpellings>Çumhuriyi Toçikiston</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Central Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <rus>Russian</rus>
          <tgk>Tajik</tgk>
       </languages>
-      <coordinates lat="39" long="71" />
+      <coordinates lat="39" long="71"/>
       <demonym>Tadzhik</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -9504,25 +9505,25 @@
          <cca2>TK</cca2>
          <ccn3>772</ccn3>
          <cca3>TKL</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>NZD</currency>
       <callingCode>690</callingCode>
       <capital>Fakaofo</capital>
       <altSpellings>TK</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Polynesia</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <smo>Samoan</smo>
          <tkl>Tokelauan</tkl>
       </languages>
-      <coordinates lat="-9" long="-172" />
+      <coordinates lat="-9" long="-172"/>
       <demonym>Tokelauan</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -9551,17 +9552,17 @@
       <capital>Ashgabat</capital>
       <altSpellings>TM</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Central Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <rus>Russian</rus>
          <tuk>Turkmen</tuk>
       </languages>
-      <coordinates lat="40" long="60" />
+      <coordinates lat="40" long="60"/>
       <demonym>Turkmen</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -9602,17 +9603,17 @@
       <altSpellings>Timór Lorosa'e</altSpellings>
       <altSpellings>Timor Lorosae</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>South-Eastern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <por>Portuguese</por>
          <tet>Tetum</tet>
       </languages>
-      <coordinates lat="-8.83333333" long="125.91666666" />
+      <coordinates lat="-8.83333333" long="125.91666666"/>
       <demonym>East Timorese</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -9644,17 +9645,17 @@
       <capital>Nuku'alofa</capital>
       <altSpellings>TO</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Polynesia</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <ton>Tongan</ton>
       </languages>
-      <coordinates lat="-20" long="-175" />
+      <coordinates lat="-20" long="-175"/>
       <demonym>Tongan</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -9680,16 +9681,16 @@
       <altSpellings>TT</altSpellings>
       <altSpellings>Republic of Trinidad and Tobago</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="11" long="-61" />
+      <coordinates lat="11" long="-61"/>
       <demonym>Trinidadian</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -9716,16 +9717,16 @@
       <altSpellings>Republic of Tunisia</altSpellings>
       <altSpellings>al-Jumhūriyyah at-Tūnisiyyah</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Northern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <ara>Arabic</ara>
       </languages>
-      <coordinates lat="34" long="9" />
+      <coordinates lat="34" long="9"/>
       <demonym>Tunisian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -9757,16 +9758,16 @@
       <altSpellings>Republic of Turkey</altSpellings>
       <altSpellings>Türkiye Cumhuriyeti</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Western Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <tur>Turkish</tur>
       </languages>
-      <coordinates lat="39" long="35" />
+      <coordinates lat="39" long="35"/>
       <demonym>Turkish</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -9805,17 +9806,17 @@
       <capital>Funafuti</capital>
       <altSpellings>TV</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Polynesia</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <tvl>Tuvaluan</tvl>
       </languages>
-      <coordinates lat="-8" long="178" />
+      <coordinates lat="-8" long="178"/>
       <demonym>Tuvaluan</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -9848,16 +9849,16 @@
       <altSpellings>Chinese Taipei for IOC</altSpellings>
       <altSpellings>Taiwan, Province of China</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Eastern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <zho>Chinese</zho>
       </languages>
-      <coordinates lat="23.5" long="121" />
+      <coordinates lat="23.5" long="121"/>
       <demonym>Taiwanese</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -9889,17 +9890,17 @@
       <altSpellings>United Republic of Tanzania</altSpellings>
       <altSpellings>Jamhuri ya Muungano wa Tanzania</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Eastern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <swa>Swahili</swa>
       </languages>
-      <coordinates lat="-6" long="35" />
+      <coordinates lat="-6" long="35"/>
       <demonym>Tanzanian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -9940,17 +9941,17 @@
       <altSpellings>Republic of Uganda</altSpellings>
       <altSpellings>Jamhuri ya Uganda</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Eastern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <swa>Swahili</swa>
       </languages>
-      <coordinates lat="1" long="32" />
+      <coordinates lat="1" long="32"/>
       <demonym>Ugandan</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -9988,17 +9989,17 @@
       <altSpellings>UA</altSpellings>
       <altSpellings>Ukrayina</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Eastern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <rus>Russian</rus>
          <ukr>Ukrainian</ukr>
       </languages>
-      <coordinates lat="49" long="32" />
+      <coordinates lat="49" long="32"/>
       <demonym>Ukrainian</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -10025,17 +10026,17 @@
          <cca2>UM</cca2>
          <ccn3>581</ccn3>
          <cca3>UMI</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>USD</currency>
-      <capital />
+      <capital/>
       <altSpellings>UM</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Northern America</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
@@ -10067,16 +10068,16 @@
       <altSpellings>Oriental Republic of Uruguay</altSpellings>
       <altSpellings>República Oriental del Uruguay</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>South America</subregion>
-
+		
       </infosContinent>
       <languages>
          <spa>Spanish</spa>
       </languages>
-      <coordinates lat="-33" long="-56" />
+      <coordinates lat="-33" long="-56"/>
       <demonym>Uruguayan</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -10109,16 +10110,16 @@
       <altSpellings>USA</altSpellings>
       <altSpellings>United States of America</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Northern America</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="38" long="-97" />
+      <coordinates lat="38" long="-97"/>
       <demonym>American</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -10154,17 +10155,17 @@
       <altSpellings>O‘zbekiston Respublikasi</altSpellings>
       <altSpellings>Ўзбекистон Республикаси</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Central Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <rus>Russian</rus>
          <uzb>Uzbek</uzb>
       </languages>
-      <coordinates lat="41" long="64" />
+      <coordinates lat="41" long="64"/>
       <demonym>Uzbekistani</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -10193,7 +10194,7 @@
          <cca2>VA</cca2>
          <ccn3>336</ccn3>
          <cca3>VAT</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>EUR</currency>
       <callingCode>3906698</callingCode>
@@ -10204,17 +10205,17 @@
       <altSpellings>Vatican City State</altSpellings>
       <altSpellings>Stato della Città del Vaticano</altSpellings>
       <infosContinent>
-
+			
          <continent>Europe</continent>
-
+			
          <subregion>Southern Europe</subregion>
-
+		
       </infosContinent>
       <languages>
          <ita>Italian</ita>
          <lat>Latin</lat>
       </languages>
-      <coordinates lat="41.9" long="12.45" />
+      <coordinates lat="41.9" long="12.45"/>
       <demonym>Italian</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -10242,16 +10243,16 @@
       <capital>Kingstown</capital>
       <altSpellings>VC</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="13.25" long="-61.2" />
+      <coordinates lat="13.25" long="-61.2"/>
       <demonym>Saint Vincentian</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -10279,16 +10280,16 @@
       <altSpellings>Venezuela, Bolivarian Republic of</altSpellings>
       <altSpellings>República Bolivariana de Venezuela</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>South America</subregion>
-
+		
       </infosContinent>
       <languages>
          <spa>Spanish</spa>
       </languages>
-      <coordinates lat="8" long="-66" />
+      <coordinates lat="8" long="-66"/>
       <demonym>Venezuelan</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -10319,16 +10320,16 @@
       <altSpellings>VG</altSpellings>
       <altSpellings>Virgin Islands, British</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="18.431383" long="-64.62305" />
+      <coordinates lat="18.431383" long="-64.62305"/>
       <demonym>Virgin Islander</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -10354,16 +10355,16 @@
       <altSpellings>VI</altSpellings>
       <altSpellings>Virgin Islands, U.S.</altSpellings>
       <infosContinent>
-
+			
          <continent>Americas</continent>
-
+			
          <subregion>Caribbean</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="18.35" long="-64.933333" />
+      <coordinates lat="18.35" long="-64.933333"/>
       <demonym>Virgin Islander</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -10391,16 +10392,16 @@
       <altSpellings>Cộng hòa Xã hội chủ nghĩa Việt Nam</altSpellings>
       <altSpellings>Viet Nam</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>South-Eastern Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <vie>Vietnamese</vie>
       </languages>
-      <coordinates lat="16.16666666" long="107.83333333" />
+      <coordinates lat="16.16666666" long="107.83333333"/>
       <demonym>Vietnamese</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -10441,18 +10442,18 @@
       <altSpellings>Ripablik blong Vanuatu</altSpellings>
       <altSpellings>République de Vanuatu</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Melanesia</subregion>
-
+		
       </infosContinent>
       <languages>
          <bis>Bislama</bis>
          <eng>English</eng>
          <fra>French</fra>
       </languages>
-      <coordinates lat="-16" long="167" />
+      <coordinates lat="-16" long="167"/>
       <demonym>Ni-Vanuatu</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -10470,7 +10471,7 @@
          <cca2>WF</cca2>
          <ccn3>876</ccn3>
          <cca3>WLF</cca3>
-         <cioc />
+         <cioc/>
       </codes>
       <currency>XPF</currency>
       <callingCode>681</callingCode>
@@ -10479,16 +10480,16 @@
       <altSpellings>Territory of the Wallis and Futuna Islands</altSpellings>
       <altSpellings>Territoire des îles Wallis et Futuna</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Polynesia</subregion>
-
+		
       </infosContinent>
       <languages>
          <fra>French</fra>
       </languages>
-      <coordinates lat="-13.3" long="-176.2" />
+      <coordinates lat="-13.3" long="-176.2"/>
       <demonym>Wallis and Futuna Islander</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -10519,17 +10520,17 @@
       <altSpellings>Independent State of Samoa</altSpellings>
       <altSpellings>Malo Saʻoloto Tutoʻatasi o Sāmoa</altSpellings>
       <infosContinent>
-
+			
          <continent>Oceania</continent>
-
+			
          <subregion>Polynesia</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
          <smo>Samoan</smo>
       </languages>
-      <coordinates lat="-13.58333333" long="-172.33333333" />
+      <coordinates lat="-13.58333333" long="-172.33333333"/>
       <demonym>Samoan</demonym>
       <landlocked>false</landlocked>
    </country>
@@ -10556,16 +10557,16 @@
       <altSpellings>Yemeni Republic</altSpellings>
       <altSpellings>al-Jumhūriyyah al-Yamaniyyah</altSpellings>
       <infosContinent>
-
+			
          <continent>Asia</continent>
-
+			
          <subregion>Western Asia</subregion>
-
+		
       </infosContinent>
       <languages>
          <ara>Arabic</ara>
       </languages>
-      <coordinates lat="15" long="48" />
+      <coordinates lat="15" long="48"/>
       <demonym>Yemeni</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -10637,11 +10638,11 @@
       <altSpellings>Suid-Afrika</altSpellings>
       <altSpellings>Republic of South Africa</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Southern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <afr>Afrikaans</afr>
@@ -10656,7 +10657,7 @@
          <xho>Xhosa</xho>
          <zul>Zulu</zul>
       </languages>
-      <coordinates lat="-29" long="24" />
+      <coordinates lat="-29" long="24"/>
       <demonym>South African</demonym>
       <landlocked>false</landlocked>
       <borders>
@@ -10690,16 +10691,16 @@
       <altSpellings>ZM</altSpellings>
       <altSpellings>Republic of Zambia</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Eastern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <eng>English</eng>
       </languages>
-      <coordinates lat="-15" long="30" />
+      <coordinates lat="-15" long="30"/>
       <demonym>Zambian</demonym>
       <landlocked>true</landlocked>
       <borders>
@@ -10791,11 +10792,11 @@
       <altSpellings>ZW</altSpellings>
       <altSpellings>Republic of Zimbabwe</altSpellings>
       <infosContinent>
-
+			
          <continent>Africa</continent>
-
+			
          <subregion>Eastern Africa</subregion>
-
+		
       </infosContinent>
       <languages>
          <bwg>Chibarwe</bwg>
@@ -10814,7 +10815,7 @@
          <xho>Xhosa</xho>
          <zib>Zimbabwean Sign Language</zib>
       </languages>
-      <coordinates lat="-20" long="30" />
+      <coordinates lat="-20" long="30"/>
       <demonym>Zimbabwean</demonym>
       <landlocked>true</landlocked>
       <borders>
