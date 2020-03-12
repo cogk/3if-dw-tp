@@ -6,8 +6,9 @@
 <!ELEMENT metadonnees (description,cree_le,objectif)>
 
 <!ELEMENT country (name,tld*,codes,currency*,callingCode*,
-                   capital,altSpellings+,infosContinent,languages+,
+                   capital,altSpellings+,infosContinent+,languages+,
                    coordinates*,demonym,landlocked,borders*)>
+                   
 <!ATTLIST country area CDATA "0">
 
 <!ELEMENT description (#PCDATA)>
@@ -32,10 +33,11 @@
 <!ELEMENT capital (#PCDATA)>
 <!ELEMENT altSpellings (#PCDATA)>
 
-<!ELEMENT infosContinent (continent,subregion*) >
+<!ELEMENT continent (#PCDATA)>
+
+<!ELEMENT infosContinent (continent+,subregion* ) >
 <!ELEMENT region (#PCDATA)>
 <!ELEMENT subregion (#PCDATA)>
-<!ELEMENT continent (#PCDATA)>
 
 <!ELEMENT languages ((bul|mya)?,(aze|bel|kir)?,(lit|vie)?,(bjz|crs)?,
                      cat?,(eus,glg,oci)?,(div|ind|kal|nor)?,aym?,grn?,
@@ -62,7 +64,8 @@
 <!ATTLIST coordinates
   lat CDATA #REQUIRED
   long CDATA #REQUIRED>
-
+  
+  
 <!ELEMENT demonym (#PCDATA)>
 <!ELEMENT landlocked (#PCDATA)>
 <!ELEMENT borders (neighbour*)>
@@ -234,3 +237,4 @@
 <!ELEMENT common (#PCDATA)>
 
 <!ELEMENT official (#PCDATA)>
+
