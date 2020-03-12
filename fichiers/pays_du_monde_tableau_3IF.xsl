@@ -13,35 +13,37 @@
             <body style="background-color: white;">
                 <h1>Les pays du monde</h1>
 
-                <xsl:apply-templates select="//metadonnees" />
-
+		    <xsl:apply-templates select="//metadonnees" />
+		
                 <hr />
-                <hr />
+		<hr />
 
-                <p>
+		<p>
                     Pays avec 6 voisins :
                     <xsl:for-each select="//country[count(borders/neighbour) = 6]">
                         <xsl:if test="not(position() = 1)">, </xsl:if>
                         <xsl:value-of select="name/common" />
                     </xsl:for-each>
-                </p>
+		</p>
 
-                <p>
+		<p>
                     Pays ayant le plus de voisins :
                     <!-- On suppose qu'il n'y a qu'un seul pays comme ça -->
                     <xsl:for-each select="//country">
                         <xsl:sort select="count(borders/neighbour)" data-type="number" order="descending"/>
                         <xsl:if test="position() = 1"><xsl:call-template name="country-with-most-neighbours"/></xsl:if>
                     </xsl:for-each>
-                </p>
+		</p>
 
                 <hr style="margin: 16px 0;" />
-
+				
+				<!-- Pour chaque continent unique -->
                 <xsl:for-each select="//country/infosContinent/continent[not(preceding::continent = .) and not(. = '')]">
                     <xsl:variable name="continent" select="." />
 
                     <h3>Pays du continent : <xsl:value-of select="$continent" /> par sous-régions :</h3>
 
+					<!-- Pour chaque sous région unique -->
                     <xsl:for-each select="//country/infosContinent[continent=$continent]/subregion[not(preceding::subregion = .) and (../continent = current())]">
                         <xsl:variable name="subregion" select="." />
                         <xsl:call-template name="print-subregion">
@@ -58,7 +60,7 @@
     </xsl:template>
 
     <xsl:template match="metadonnees">
-        <p style="text-align: center; color: blue;">
+        <p style="text-align:center; color:blue;">
             <b>Mise en forme par : Zineb FADILI, Corentin FORLER (B3424)</b>
             <br />
             Objectif :
@@ -66,6 +68,7 @@
         </p>
     </xsl:template>
 
+	<!-- Tranformations pour les pays -->
     <xsl:template match="country">
         <tr>
             <td>
@@ -89,10 +92,12 @@
             <td>
                 <xsl:variable name="n" select="count(borders/neighbour)"/>
                 <xsl:choose>
+					<!-- Si le pays n'a pas de voisin, c'est une ile -->
                     <xsl:when test="$n = 0">
                         Île
                     </xsl:when>
                     <xsl:otherwise>
+						<!-- Récupération des noms des pays voisins -->
                         <xsl:for-each select="borders/neighbour">
                             <xsl:if test="not(position() = 1)">, </xsl:if>
                             <xsl:value-of select="//country[codes/cca3=current()]/name/common" />
@@ -106,6 +111,7 @@
             </td>
 
             <td>
+				<!-- Récupération du drapeau des pays, nécessité de formattage (majusculte -> minuscule) -->
                 <img src="http://www.geonames.org/flags/x/{translate(codes/cca2, 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz')}.gif" alt="" height="40" width="60" />
             </td>
         </tr>
@@ -116,6 +122,7 @@
         Longitude : <xsl:value-of select="@long" />
     </xsl:template>
 
+	<!-- template appliqués aux sous-régions -->
     <xsl:template name="print-subregion">
         <xsl:param name="continent" />
         <xsl:param name="subregion" />
