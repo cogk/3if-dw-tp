@@ -1,34 +1,172 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
-<head>
+	<head>
 
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-    <title>TP 3IF Ajax</title>
-    <meta name="author" content="El�d EGYED-ZSIGMOND">
-
-    <script type="text/javascript" src="partieJavascript.js"></script>
-
-</head>
-
-<body <p>Fichier � modifier/comp�lter</p>
-    <p>
-        <input name="button" type="button" id="myButton1" onClick="setNom(document.getElementById('myText1').value);" value="1. AJAX simple" />
-        <input name="text" type="text" id="myText1" value="Toto" />
-        <br />
-        <input name="button2" type="button" id="myButton2" onClick="Bouton2_ajaxBibliographie('ajax.bib.xml','ajax.bib.xsl','ul');" value="2. AJAX avec ajax.bib.xml/ajax.bib.xsl" />
-        <br />
-        <input name="button2" type="button" id="myButton3" onClick="Bouton3_ajaxEmployees('Employees.xml');" value="3. AJAX avec Employees.xml" />
-        <br />
-    </p>
-    <div>
-        <p>Les noms sont : <br/>
-            <span id="id_nom_a_remplacer" style="color: red; font-weight: bold;">LES NOMS (Cet &eacute;l&eacute;ment va &ecirc;tre remplac&eacute; par les noms) </span>.</p>
-    </div>
-    <div id="id_element_a_remplacer">
-        <p style="color: red; font-weight: bold;">Cet &eacute;l&eacute;ment va &ecirc;tre remplac&eacute; par une bibliographie en XML mise en forme par une feuille de style XSLT...</p>
-    </div>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>TP 3IF Ajax</title>
+		<meta name="author" content="Zineb Fadili, Corentin Forler (B3424)">
 
 
-</body>
+
+	</head>
+
+	<body>
+		<p>Résultat</p>
+		<p>
+			<input name="button1" type="button" id="myButton1"
+				onClick="bouton_changerCouleurFond('blue'); bouton_changerEcritureBouton(this, 'white');"
+				value="1. Changement couleur fond et écriture de ce bouton" />
+			<br />
+
+			<input name="button2" type="button" id="myButton2" onClick="bouton_changerCouleurFond('white');"
+				value="2. Remet le fond en blanc" />
+			<br />
+
+			<input name="button3" type="button" id="myButton3"
+				onClick="Bouton_ajaxBibliographie('countriesTP.xml','cherchePays.xsl', 'id_resultats_recherche', 'ul', document.getElementById('myText3').value);"
+				value="3. Recherche d'infos sur le pays saisi" />
+			<input name="text" type="text" id="myText3" value="Entrer le code du pays" />
+			<br />
+
+			<input name="button4" type="button" id="myButton4"
+				onClick="bouton_chargeEtAfficheSVG('svgfichier','exemple.svg');" value="4. Affichage du dessin svg" />
+			<br />
+
+			<input name="button5" type="button" id="myButton5" onClick="bouton_rendClickable('svgfichier');"
+				value="5. Dessin svg clickable" />
+			<br />
+
+			<input name="button6" type="button" id="myButton6"
+				onClick="bouton_chargeEtAfficheSVG('svgfichierMap', 'worldHigh.svg');" value="6. Affichage Map" />
+			<br />
+
+			<input name="button7" type="button" id="myButton7" onClick="bouton_rendClickable('svgfichierMap');"
+				value="7. Map clickable" />
+			<br />
+
+			<input name="button8" type="button" id="myButton8" onClick="bouton_ajoutActListCarte('svgfichierMap');"
+				value="8. Informations lors du passage sur la Map" />
+			<br />
+
+			<input name="button9" type="button" id="myButton9"
+				onClick="bouton_activerAutoCompletion('myText3', 'liste-codes-pays');"
+				value="9. Activer l'autocomplétion" />
+			<br />
+
+			<input name="button10" type="button" id="myButton10" onClick="bouton_changerModeCarte(1);"
+				value="10. Afficher aussi la monnaie des pays lors du passage sur la Map" />
+			<br />
+
+			<input name="button11" type="button" id="myButton11" onClick="bouton_visualisationInteressante(); window.scrollTo(0,document.body.scrollHeight);"
+				value="11. Visualisation intéressante : nombre de monuments par pays (données geonames.org), deuxième carte en-dessous de la première" />
+		</p>
+		<div>
+			<p>
+				<span id="id_titre_a_remplacer" style="color: black; font-weight: bold;"></span> <br />
+				<span id="id_nom_a_remplacer" style="color: red; font-weight: bold;"></span>
+			</p>
+		</div>
+		<div id="id_resultats_recherche" style="height: 120px; width: 600px;">
+			<p style="color: red; font-weight: bold;"></p>
+		</div>
+
+
+		<div id="svgfichier">
+			<!-- on charge le fichier svg dans la fonction du bouton 4 -->
+		</div>
+		<div id="svgfichierMap" width="100%" height="100%">
+			<!-- on charge le fichier svg dans la fonction du bouton 6 -->
+		</div>
+
+		<div id="leGradient" width="200" height="50" style="display: none">
+			<!-- gradient affiché au dessus de la carte sur le nombre de monument par pays -->
+			<span>Nombre de monuments</span>
+			<br />
+			<canvas id="unGradient" width="200" height="50" style="border:1px solid #d3d3d3;">
+			</canvas>
+			<br />
+			<span style="margin: 0 auto; text-align: left">0</span>
+			<span style="margin: 175; text-align: right">50</span>
+		</div>
+
+		<div id="svgfichierVisualisation" width="100%" height="100%">
+			<!-- on charge le fichier svg dans la fonction du bouton 11 -->
+		</div>
+
+        <!-- l'info-bulle pour la carte du bouton 11 -->
+        <div id="monuments-info-bulle"></div>
+        <!-- la "fenêtre" de détails pour la carte du bouton 11 -->
+        <div id="monuments-modal" class="hidden">
+            <div id="monuments-modal-content"></div>
+            <button id="monuments-modal-close" onclick="masquerListeMonuments()">Fermer</button>
+        </div>
+        <div id="monuments-modal-overlay" onclick="masquerListeMonuments()"></div>
+
+        <!-- le style de ces deux éléments sont dans cette balise style -->
+        <style>
+            #monuments-info-bulle {
+                visibility: hidden;
+                position: fixed;
+                background: black;
+                color: white;
+                border-radius: 5px;
+                padding: 8px;
+            }
+            #monuments-modal {
+                position: fixed;
+                background: white;
+                color: black;
+                border-radius: 5px;
+                box-shadow: 0 5px 24px 5px rgba(0, 0, 0, 0.3);
+                transition: all 300ms ease;
+                padding: 0 8px;
+
+                height: 50vmin;
+                width: 70vmin;
+                top: calc((100vh - 60vmin) / 2);
+                left: calc((100vw - 70vmin) / 2);
+                z-index: 11;
+            }
+            #monuments-modal-overlay {
+                position: fixed;
+                display: block;
+                content: '';
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                background: black;
+                opacity: 0.4;
+                z-index: 10;
+                transition: all 300ms ease;
+            }
+
+            #monuments-modal.hidden {
+                transform: scale(0); /* petite animation sympathique sur la fenetre modale */
+            }
+            #monuments-modal.hidden, /* la classe hidden masque la fenetre modale */
+            #monuments-modal.hidden + #monuments-modal-overlay /* le fond assombrissant est masqué aussi */ {
+                /* visibility: hidden; */
+                opacity: 0;
+                pointer-events: none;
+            }
+
+            #monuments-modal-content {
+                width: 100%;
+                height: 100%;
+                overflow: scroll;
+            }
+            #monuments-modal-close {
+                position: absolute;
+                top: 4px;
+                right: 4px;
+            }
+        </style>
+
+		<!-- datalist utilisée pour l'ajout de liste déroulante -->
+		<datalist id="liste-codes-pays"></datalist>
+
+		<script type="text/javascript" src="partieJavascript.js"></script>
+	</body>
 
 </html>

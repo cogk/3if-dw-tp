@@ -1,0 +1,133 @@
+-- Nom : FORLER Corentin num étudiant : 4021794 , FADILI Zineb num étudiant : 4017514 --
+-- Binome : B3424 --
+
+
+
+-- ETAPE 1 --
+
+1. toutes les capitales  
+
+//countries/country/capital
+
+Premières valeurs :
+Node		Value
+capital		Oranjestad
+capital		Kabul
+capital		Luanda
+capital		The Valley
+
+2.les noms communs (name/common) des pays
+
+//countries/country/name/common
+ <!--il faut bien préciser name/common, car native a aussi un enfant qui s'appel common -->
+
+Premières valeurs :
+Node		Value
+common		Aruba
+common		Afghanistan
+common		Angola
+common		Anguilla
+
+3.la superficie de chaque pays 
+
+//country/@area
+
+Premières valeurs :
+Node		Value
+area		180
+area		652230
+area		1246700
+area		91
+
+4.les éléments ayant au moins un attribut
+
+//*[count(@*)>0]
+
+Premières valeurs :
+Node		Value
+country	
+native_name	
+native_name	
+coordinates	
+
+5. les noms officiels des pays exprimés français, pour ceux qui en ont 
+
+//native_name[@lang ="fra"]/official
+
+Premières valeurs :
+Node		Value
+official	Territoire des Terres australes et antarctiques françaises
+official	République du Burundi
+official	Royaume de Belgique
+official	République du Bénin
+
+6. les deuxièmes noms natifs officiels des pays 
+
+//name/native_name[2]/official
+
+Premières valeurs :
+Node		Value
+official	Aruba
+official	
+official	República Argentina
+official	
+
+7. la somme des superficies (area) des pays d'Europe  
+
+sum(//country[infosContinent/continent="Europe"]/@area) 
+
+Valeur:
+2.3E7
+
+8. lles pays dont le nom commun n'est pas contenu dans leur nom officiel
+
+//country[count(borders/neighbour)=0 and not(contains(name/official, name/common))]
+
+Premières valeurs :
+Node		Value
+country	
+<!-- le pays est un ile pays s'il n'a pas de land border avec un autre pays -->
+
+9. le dernier voisin de la France  
+
+//country[name/common="France"]/borders/neighbour[last()]
+
+Premières valeurs :
+Node		Value
+neighbour	CHE
+
+10. la position de la France dans le document XML  
+
+count(//country[name/common="France"]/preceding-sibling::*)+1
+
+Résultat :
+76
+
+11. les langues des noms natifs des pays sans doublons  
+
+//native_name[not(@lang=preceding::native_name/@lang)]/@lang
+
+Premières valeurs :
+Node		Value
+lang		nld
+lang		pap
+lang		prs
+lang		pus
+
+
+
+-- ETAPE 2 --
+
+Modifications :
+1. Nous avons rajouté area dans country
+2. Nous avons créé l'élément continent
+3. Nous avons changé infoRegions en infoContinent
+4. Nous avons enlevé area de la liste des enfants, Nous avons rajouté de infosContinent* (à la place de infosRegion)
+5. Nous avons changé element neighbourers par neighbour
+6. Nous avons changé tld+ par tld* parce que l'albanie n'a pas de tld
+
+Dans le dtd Nous avons changé les étoiles par les + et nous avons vérifié qu'il n'y ai pas de problème
+
+Nous pouvons mettre + pour infosContinent 
+
+Dans infosContinent pour nous pouvons mettre + 
